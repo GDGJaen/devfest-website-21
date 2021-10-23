@@ -2,19 +2,15 @@
   {
     "id": "gomez",
     "name": "Rafael Gómez",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
     "github": "rgomez96"
   },
   {
-    "id": "abedraba",
-    "name": "Abdallah Abedraba",
-    "image": "https://avatars.githubusercontent.com/u/27779735?v=4",
-    "bio": "I'm Abdallah and I currently work as a Software Engineer at GreenMobility building cool electric cars sharing platform. Deeply passionate about innovation and communities, participating as a member of Google Developer Groups and previously working with the DevRel team at Google. Love statically typed programming languages, anything jazz, FOSS, hiking and really any movie.",
-    "company": "GreenMobility",
-    "twitter": "aabedraba",
-    "github": "aabedraba",
-    "website": "https://aabedraba.com",
-    "linkedin": "https://www.linkedin.com/in/aabedraba"
+    "id": "luque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
+    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
+    "twitter": "m4r4__"
   },
   {
     "id": "alferez",
@@ -36,17 +32,11 @@
   {
     "id": "rus",
     "name": "Jose Manuel Rus",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
     "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
     "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
   },
-  {
-    "id": "luque",
-    "name": "Mara Luque",
-    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
-    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
-    "twitter": "m4r4__"
-  },
+
   {
     "id": "jesi",
     "name": "Jesús Enrique",
@@ -55,6 +45,17 @@
     "github": "jesi-rgb",
     "twitter": "jesi_rgb",
     "website": "https://thinking-thoughts.vercel.app"
+  },
+  {
+    "id": "abedraba",
+    "name": "Abdallah Abedraba",
+    "image": "https://avatars.githubusercontent.com/u/27779735?v=4",
+    "bio": "I'm Abdallah and I currently work as a Software Engineer at GreenMobility building cool electric cars sharing platform. Deeply passionate about innovation and communities, participating as a member of Google Developer Groups and previously working with the DevRel team at Google. Love statically typed programming languages, anything jazz, FOSS, hiking and really any movie.",
+    "company": "GreenMobility",
+    "twitter": "aabedraba",
+    "github": "aabedraba",
+    "website": "https://aabedraba.com",
+    "linkedin": "https://www.linkedin.com/in/aabedraba"
   },
   {
     "id": "checa",
