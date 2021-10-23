@@ -51,7 +51,8 @@ export default () => (
         ultimando todos los detalles.
       </p>
       {/* <p>We are pleased to offer a limited number of scholarships to potential attendees who would experience financial hardship. <Anchor href="https://forms.gle/GNihqAGiK8aWgMZb7" target="_blank" rel="noopener noreferrer" color="white">Apply here</Anchor>.</p> */}
-      <Tito />
+      {/* <Tito /> */}
+
       {/* <p className="cta">
         <AnchorButton color='white/green' href="https://ti.to/gdg-new-orleans/devfest-new-orleans-2019" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
       </p> */}
@@ -62,37 +63,33 @@ export default () => (
       <PersonList people={speakers} rainbow />
     </Section>
 
-    <Section>
-      <OffsetHeading id="emcee">Master of Ceremonies</OffsetHeading>
-      <Emcee {...emcee} />
-    </Section>
-
     <Section color="blue">
-      <OffsetHeading id="schedule">Schedule</OffsetHeading>
+      <OffsetHeading id="schedule">Programación del evento</OffsetHeading>
       <Schedule schedule={schedule} />
     </Section>
 
     <Section>
-      <OffsetHeading id="sponsors">Sponsors</OffsetHeading>
+      <OffsetHeading id="sponsors">Patrocinadores</OffsetHeading>
       <SponsorList sponsors={sponsors} />
       <p>
-        Sponsorship offers marketing exposure, hiring help, and adoration from
-        our community, and can be in-kind (space, drinks, volunteers, swag,
-        etc.) or monetary. Interested in becoming a sponsor? Contact us today:
+        El patrocinio ofrece exposición de marketing, contratación de ayuda y
+        adoración de nuestra comunidad, y puede ser en especie (espacio,
+        bebidas, voluntarios, etc.) o monetario. Interesado en ser un
+        patrocinador? Póngase en contacto con nosotros hoy:
       </p>
       <p className="cta">
         <AnchorButton
-          href="mailto:gdgneworleans@gmail.com"
+          href="mailto:gdgjaen@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Become a sponsor
+          Conviértete en patrocinador
         </AnchorButton>
       </p>
     </Section>
 
     <Section color="red">
-      <OffsetHeading id="organizers">Organizers</OffsetHeading>
+      <OffsetHeading id="organizers">Organizadores</OffsetHeading>
       <PersonList people={organizers} />
     </Section>
 

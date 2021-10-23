@@ -1,96 +1,26 @@
 [
   {
-    "id": "diana",
-    "name": "Diana Rodríguez",
-    "image": "/static/diana.png",
-    "bio": "Diana Rodriguez is a Full Stack Developer & DevOps lover of all things web and cloud!. With over 18 years' experience and a strong background in back end and infrastructure Diana likes to bring together the best of both worlds. In her spare time she likes to play videogames and loves taekwondo.",
-    "company": "Vue Vixens",
-    "twitter": "cotufa82"
+    "id": "ponente1",
+    "name": "Ponente 1",
+    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "bio": "Bio",
+    "company": "Trabajo",
+    "twitter": "/",
+    "github": "/",
+    "website": "/",
+    "linkedin": "/",
+    "profile": "/"
   },
   {
-    "id": "ryan",
-    "name": "Ryan Harvey",
-    "image": "/static/ryan.png",
-    "bio": "Ryan Harvey is a software & data engineer, a computer science educator, and an active participant in civic and public benefit tech efforts. He works at TED on analytics & video and teaches at Loyola University New Orleans.",
-    "company": "TED / Loyola",
-    "twitter": "CodeAndData",
-    "github": "nihonjinrxs",
-    "website": "http://datascientist.guru/",
-    "linkedin": "https://www.linkedin.com/in/ryanbharvey",
-    "profile": "http://people.loyno.edu/~rharvey/"
-  },
-  {
-    "id": "robin",
-    "name": "Robin Dykema",
-    "image": "/static/robin.jpg",
-    "bio": "Robin is a UI engineer at Taulia, where she focuses on front end development in React. She is passionate about building stunning user interfaces and intuitive user experiences. She successfully transitioned from teaching ESL to kindergarteners in Shanghai to wrangling code and hasn't looked back since.",
-    "company": "Taulia",
-    "twitter": "robindykema",
-    "linkedin": "http://www.linkedin.com/in/robindykema"
-  },
-  {
-    "id": "ekaba",
-    "name": "Ekaba Bisong",
-    "image": "/static/ekaba.png",
-    "bio": "Ekaba is a Data Science Lead at T4G. He is a Google Developer Expert in Machine Learning, and is the author of the book \"Building Machine Learning and Deep Learning Models on Google Cloud Platform\" (In Production) with Apress (Springer Nature) Publishers.",
-    "company": "T4G",
-    "github": "dvdbisong",
-    "website": "https://ekababisong.org/",
-    "blog": "https://ekababisong.org/writings/",
-    "linkedin": "https://www.linkedin.com/in/ekababisong/"
-  },
-  {
-    "id": "jen",
-    "name": "Jen Tong",
-    "image": "/static/jen.jpg",
-    "bio": "Jen is a Security Advocate on Google Cloud Platform. In this role she helps developers and IT professionals stay out of trouble while getting the most out of cloud computing. ",
-    "company": "Google",
-    "twitter": "MimmingCodes",
-    "github": "mimming",
-    "website": "https://jen.run",
-    "blog": "https://little418.com",
-    "linkedin": "http://linked.in/mimming"
-  },
-  {
-    "id": "michelle",
-    "name": "Michelle Brenner",
-    "image": "/static/michelle.jpg",
-    "bio": "Michelle is a Senior Backend Engineer, with 9+ years experience in tech, from engineering support to manager. She runs a tech podcast (From The Source) and works to promote DE&I in tech.",
-    "company": "ChowNow",
-    "twitter": "michellelynneb",
-    "website": "http://www.michellebrenner.com/",
-    "linkedin": "https://www.linkedin.com/in/michellebrenner/"
-  },
-  {
-    "id": "michael",
-    "name": "Michael Solati",
-    "image": "/static/michael.jpg",
-    "bio": "Michael is a Developer Advocate at Typeform as well as a Google Developer Expert in Web Technologies. He has found his love in Angular, Firebase, Progressive Web Apps, and the voodoo ways of the web.",
-    "company": "Typeform",
-    "twitter": "MichaelSolati",
-    "github": "MichaelSolati",
-    "website": "https://michaelsolati.com/",
-    "blog": "https://michaelsolati.com/articles",
-    "linkedin": "https://www.linkedin.com/in/michaelsolati/"
-  },
-  {
-    "id": "alex",
-    "name": "Alex Muramoto",
-    "image": "/static/alex.jpg",
-    "bio": "Alex is a developer advocate for Google Maps Platform. His past lives are a mix of web dev, hybrid mobile, chatbots, a lot of documentation, and geo.",
-    "company": "Google",
-    "twitter": "alexmuramoto",
-    "github": "amuramoto",
-    "website": "http://developers.google.com/maps/documentation/",
-    "blog": "https://cloud.google.com/blog/products/maps-platform",
-    "linkedin": "https://www.linkedin.com/in/amuramoto"
-  },
-  {
-    "id": "sonia",
-    "name": "Sonia Gupta",
-    "image": "/static/sonia.jpg",
-    "bio": "Sonia Gupta is a software developer in Los Angeles. Prior to becoming a developer, she was a lawyer in Louisiana. Sonia believes that even if tech can’t change the world, technologists absolutely can.",
-    "company": "InfluxData",
-    "twitter": "soniagupta504"
+    "id": "ponente2",
+    "name": "Ponente 2",
+    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "bio": "Bio",
+    "company": "Trabajo",
+    "twitter": "/",
+    "github": "/",
+    "website": "/",
+    "linkedin": "/",
+    "profile": "/"
   }
 ]

@@ -1,36 +1,66 @@
 [
   {
-    "id": "guzman",
-    "name": "Chris Guzman",
-    "image": "/static/guzman_500.jpg",
-    "bio": "Chris Guzman is an Android developer and recovering Rails developer. He co-organizes GDG New Orleans. A recent transplant from Baltimore, he loves board games and all types of comedy.",
-    "company": "Leafly",
-    "twitter": "speaktochris",
-    "github": "ChrisGuzman",
-    "website": "http://chris-guzman.com/",
-    "blog": "https://chrisguzman.svbtle.com/",
-    "linkedin": "https://www.linkedin.com/in/guzmantchris"
+    "id": "gomez",
+    "name": "Rafael Gómez",
+    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "github": "rgomez96"
   },
   {
-    "id": "sia",
-    "name": "Sia Karamalegos",
-    "image": "/static/sia_500.jpg",
-    "bio": "Sia Karamalegos is the founder and lead developer for Clio + Calliope. She is a Google Developer Expert in Web Technologies, a Women Techmakers ambassador, and a co-organizer of GDG New Orleans.",
-    "company": "Clio + Calliope",
-    "twitter": "TheGreenGreek",
-    "github": "siakaramalegos",
-    "website": "https://siakaramalegos.github.io/",
-    "blog": "https://medium.com/clio-calliope",
-    "linkedin": "https://www.linkedin.com/in/karamalegos"
+    "id": "abedraba",
+    "name": "Abdallah Abedraba",
+    "image": "https://avatars.githubusercontent.com/u/27779735?v=4",
+    "bio": "I'm Abdallah and I currently work as a Software Engineer at GreenMobility building cool electric cars sharing platform. Deeply passionate about innovation and communities, participating as a member of Google Developer Groups and previously working with the DevRel team at Google. Love statically typed programming languages, anything jazz, FOSS, hiking and really any movie.",
+    "company": "GreenMobility",
+    "twitter": "aabedraba",
+    "github": "aabedraba",
+    "website": "https://aabedraba.com",
+    "linkedin": "https://www.linkedin.com/in/aabedraba"
   },
   {
-    "id": "liv",
-    "name": "Olivia Sabo-Rush",
-    "image": "/static/liv_500.jpg",
-    "bio": "Liv is a New Orleans based software engineer. She co-organizes GDG New Orleans and #FrontEndParty, and has a passion for UI/UX.",
-    "company": "iSeatz",
-    "github": "livrush",
-    "website": "http://pafiu.me",
-    "linkedin": "https://www.linkedin.com/in/livrush"
+    "id": "alferez",
+    "name": "Manuel Alférez",
+    "image": "https://avatars.githubusercontent.com/u/38152841?v=4",
+    "bio": "I'm Manuel and I'm doing stuff with JavaScript, sharing code on GitHub and participating as a member of Google Developer Groups. Ask me about Open Source, hiking or just for a chat.",
+    "github": "manuelalferez",
+    "twitter": "manuelalferez",
+    "website": "https://www.manuelalferez.com/",
+    "linkedin": "https://www.linkedin.com/in/manuelalferez"
+  },
+  {
+    "id": "honrubia",
+    "name": "José Honrubia",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_800_800/0/1594379775090?e=1639008000&v=beta&t=Ozb942mT8i1Au3a8ju2glxDlTkkvLdwIdR29XPX7XuM",
+    "bio": "Electrical Engineer and Master in Industrial Engineer with leadership, hard-worker, teamwork and curiosity. Passionate about engineering, math, new energies and solving problems.",
+    "linkedin": "https://www.linkedin.com/in/jhonrubia"
+  },
+  {
+    "id": "rus",
+    "name": "Jose Manuel Rus",
+    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
+    "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
+  },
+  {
+    "id": "luque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
+    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
+    "twitter": "m4r4__"
+  },
+  {
+    "id": "jesi",
+    "name": "Jesús Enrique",
+    "image": "https://avatars.githubusercontent.com/u/50735312?v=4",
+    "bio": "Data driven artist and developer. No detail is too small.",
+    "github": "jesi-rgb",
+    "twitter": "jesi_rgb",
+    "website": "https://thinking-thoughts.vercel.app"
+  },
+  {
+    "id": "checa",
+    "name": "Alberto Checa",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
+    "bio": "Estudiante en Universidad de Jaén.",
+    "linkedin": "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160"
   }
 ]
