@@ -46,16 +46,16 @@ export default () => (
         desarrolladores. GDG Jaén te invita a unirte a nosotros el sábado 11 de
         diciembre de 2021 en la Universidad de Jaén.
       </p>
-      <p>
-        Tenga en cuenta que este evento aún NO tiene venta de entradas. Estamos
-        ultimando todos los detalles.
-      </p>
-      {/* <p>We are pleased to offer a limited number of scholarships to potential attendees who would experience financial hardship. <Anchor href="https://forms.gle/GNihqAGiK8aWgMZb7" target="_blank" rel="noopener noreferrer" color="white">Apply here</Anchor>.</p> */}
-      {/* <Tito /> */}
-
-      {/* <p className="cta">
-        <AnchorButton color='white/green' href="https://ti.to/gdg-new-orleans/devfest-new-orleans-2019" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
-      </p> */}
+      <div>
+        <AnchorButton
+          color="blue"
+          href="https://billetto.es/e/devfest-2021-entradas-583107"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Comprar entrada
+        </AnchorButton>
+      </div>
     </Section>
 
     <Section>
@@ -64,7 +64,9 @@ export default () => (
     </Section>
 
     <Section color="blue">
-      <OffsetHeading id="schedule">Programación del evento</OffsetHeading>
+      <OffsetHeading id="schedule">
+        Programación del evento (solo demostración, no es real)
+      </OffsetHeading>
       <Schedule schedule={schedule} />
     </Section>
 

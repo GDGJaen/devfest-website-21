@@ -1,7 +1,7 @@
 {
   "name": "devfest-nola-2019",
   "version": "1.0.0",
-  "description": "DevFest New Orleans 2019 website",
+  "description": "DevFest GDG Jaén 2021 website",
   "private": true,
   "scripts": {
     "dev": "next",
