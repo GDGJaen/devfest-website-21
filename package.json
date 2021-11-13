@@ -25,7 +25,6 @@
   "devDependencies": {
     "@svgr/webpack": "^4.3.3",
     "babel-plugin-styled-components": "^1.13.3",
-    "gh-pages": "^2.2.0",
     "js-yaml": "^3.14.1"
   }
 }
