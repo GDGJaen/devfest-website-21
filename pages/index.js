@@ -59,7 +59,7 @@ export default () => (
     </Section>
 
     <Section>
-      <OffsetHeading id="speakers">Speakers</OffsetHeading>
+      <OffsetHeading id="speakers">Ponentes</OffsetHeading>
       <PersonList people={speakers} rainbow />
     </Section>
 

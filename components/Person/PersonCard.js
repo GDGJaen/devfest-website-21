@@ -1,6 +1,13 @@
-import styled from 'styled-components'
-import { GithubLink, TwitterLink, LinkedInLink, WebsiteLink, BlogLink } from "../SocialLink";
-import ProfileImage from '../elements/ProfileImage';
+import styled from "styled-components";
+import {
+  GithubLink,
+  TwitterLink,
+  LinkedInLink,
+  WebsiteLink,
+  BlogLink,
+  TwitchLink,
+} from "../SocialLink";
+import ProfileImage from "../elements/ProfileImage";
 
 const StyledCard = styled.div`
   /* offsetting location for links */
@@ -15,14 +22,29 @@ const StyledCard = styled.div`
     padding-top: 250px;
     margin-bottom: 0;
   }
-  &.card h2 { font-size: 1.4em; }
-`
+  &.card h2 {
+    font-size: 1.4em;
+  }
+`;
 
-const PersonCard = ({name, image, bio, company, twitter, github, linkedin, website, blog, color, id}) => {
+const PersonCard = ({
+  name,
+  image,
+  bio,
+  company,
+  twitter,
+  github,
+  linkedin,
+  website,
+  blog,
+  twitch,
+  color,
+  id,
+}) => {
   // Hack to get the /static/ folder to work for gh-pages. Set to true for gh-pages build
-  const ghPages = false
-  const assetPrefix = ghPages ? '/devfest-nola-2019' : ''
-  const img = `${assetPrefix}${image}`
+  const ghPages = false;
+  const assetPrefix = ghPages ? "/devfest-nola-2019" : "";
+  const img = `${assetPrefix}${image}`;
 
   return (
     <StyledCard className="card">
@@ -36,9 +58,10 @@ const PersonCard = ({name, image, bio, company, twitter, github, linkedin, websi
         {linkedin ? <LinkedInLink link={linkedin} color={color} /> : null}
         {website ? <WebsiteLink link={website} color={color} /> : null}
         {blog ? <BlogLink link={blog} color={color} /> : null}
+        {twitch ? <TwitchLink link={twitch} color={color} /> : null}
       </p>
     </StyledCard>
-  )
-}
+  );
+};
 
-export default PersonCard
+export default PersonCard;

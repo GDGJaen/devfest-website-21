@@ -1,7 +1,14 @@
-import styled from 'styled-components'
-import ProfileImage from './elements/ProfileImage';
-import { GithubLink, TwitterLink, LinkedInLink, WebsiteLink, BlogLink } from "./SocialLink";
-import theme from './theme'
+import styled from "styled-components";
+import ProfileImage from "./elements/ProfileImage";
+import {
+  GithubLink,
+  TwitterLink,
+  LinkedInLink,
+  WebsiteLink,
+  BlogLink,
+  TwitchLink,
+} from "./SocialLink";
+import theme from "./theme";
 
 const StyledDiv = styled.div`
   text-align: center;
@@ -10,15 +17,38 @@ const StyledDiv = styled.div`
     font-size: 1.6em;
     margin-bottom: 0;
   }
-  h3 { font-size: 1.4em; }
-  img {border: 8px solid ${theme.colors.blue};}
-  a { color: ${theme.colors.blue}; }
-  a:hover { color: ${theme.colors.blueLight}; }
-  svg { fill: ${theme.colors.blue}; }
-  svg:hover { fill: ${theme.colors.blueLight}; }
-`
+  h3 {
+    font-size: 1.4em;
+  }
+  img {
+    border: 8px solid ${theme.colors.blue};
+  }
+  a {
+    color: ${theme.colors.blue};
+  }
+  a:hover {
+    color: ${theme.colors.blueLight};
+  }
+  svg {
+    fill: ${theme.colors.blue};
+  }
+  svg:hover {
+    fill: ${theme.colors.blueLight};
+  }
+`;
 
-const Emcee = ({name, company, bio, image, github, twitter, linkedin, website, blog}) => (
+const Emcee = ({
+  name,
+  company,
+  bio,
+  image,
+  github,
+  twitter,
+  linkedin,
+  website,
+  blog,
+  twitch,
+}) => (
   <StyledDiv>
     <ProfileImage src={image} alt={name} />
     <h2>{name}</h2>
@@ -30,8 +60,9 @@ const Emcee = ({name, company, bio, image, github, twitter, linkedin, website, b
       {linkedin ? <LinkedInLink link={linkedin} /> : null}
       {website ? <WebsiteLink link={website} /> : null}
       {blog ? <BlogLink link={blog} /> : null}
+      {twitch ? <TwitchLink link={twitch} /> : null}
     </p>
   </StyledDiv>
-)
+);
 
-export default Emcee
+export default Emcee;

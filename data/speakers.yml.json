@@ -1,26 +1,74 @@
 [
   {
-    "id": "ponente1",
-    "name": "Ponente 1",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
-    "bio": "Bio",
-    "company": "Trabajo",
-    "twitter": "/",
-    "github": "/",
-    "website": "/",
-    "linkedin": "/",
-    "profile": "/"
+    "id": "romulocintra",
+    "name": "Romulo Cintra",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/romulocintra_WWx1xtNGa.jpeg",
+    "bio": "Web enthusiast at @igalia | Google Developer Expert",
+    "company": "Igalia",
+    "twitter": "/romulocintra",
+    "github": "/romulocintra",
+    "website": "https://romulocintra.dev",
+    "linkedin": "https://www.linkedin.com/in/romulocintra"
   },
   {
-    "id": "ponente2",
-    "name": "Ponente 2",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
-    "bio": "Bio",
-    "company": "Trabajo",
-    "twitter": "/",
-    "github": "/",
-    "website": "/",
-    "linkedin": "/",
-    "profile": "/"
+    "id": "moisipm",
+    "name": "Moisés M. Martínez",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/moisipm_xMkAXPRRx.jpeg",
+    "bio": "Always Learning. Physics, Maths & Artificial Intelligence | AI & BigData Architec | Google Developer Expert in ML 🦸‍♂️ | T3chFest & gdgcloudmadrid organizer",
+    "company": "Paradigma Digital",
+    "twitter": "/moisipm",
+    "github": "/momartinm",
+    "website": "https://padlet.com/momartinm/wp3g06gp6siv",
+    "linkedin": "https://www.linkedin.com/in/momartinm"
+  },
+  {
+    "id": "iblancasa",
+    "name": "Israel Blancas Álvarez",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/iblancasa_oMReJz478.jpeg",
+    "bio": "Software Quality Engineer @Red Hat | Open Source enthusiast",
+    "company": "Red Hat",
+    "twitter": "/iblancasa",
+    "github": "/iblancasa",
+    "website": "http://iblancasa.com",
+    "linkedin": "https://www.linkedin.com/in/iblancasa"
+  },
+  {
+    "id": "Eric_Lostie",
+    "name": "Eric Medina Miquel",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/Eric_Lostie_q-ZTOpJr6.jpeg?updatedAt=1637574653996",
+    "bio": "Creador de juegos de Pokémon y streamer | Pokémon Titan, Pokémon Iberia y Pokémon Ópalo",
+    "company": "Streamer",
+    "twitter": "/Eric_Lostie",
+    "twitch": "https://www.twitch.tv/ericlostie"
+  },
+  {
+    "id": "ikicode",
+    "name": "Jose Manuel Márquez",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/ikicode_jIVp8Ik-i.jpeg",
+    "bio": "Tech Lead & Co-founder at Código Base - Product Team as a Service - Development with Flutter",
+    "company": "Código Base",
+    "twitter": "/ikicode",
+    "website": "https://codigobase.es",
+    "linkedin": "https://www.linkedin.com/in/jose-manuel-marquez/"
+  },
+  {
+    "id": "eduSatoe",
+    "name": "Eduardo Sánchez Toril",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/eduSatoe_CEqhKd-es.jpeg",
+    "bio": "Profesor de Formación Profesional & CEO de AllPentesting | Pulmón de HackandBeers - Responsable de QurtubaCon | Vicepresidente de ANPhacket",
+    "company": "AllPentesting",
+    "twitter": "/eduSatoe",
+    "website": "https://satoe.es",
+    "linkedin": "https://www.linkedin.com/in/eduardosancheztoril"
+  },
+  {
+    "id": "RaSr98",
+    "name": "Rafael Sojo Ruíz",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/RaSr98_1VWF3a8GC.jpeg",
+    "bio": "Técnico de SMR y Técnico Superior de Desarrollo de Aplicaciones Web (DAW) | En mi tiempo libre aprendo sobre Ciberseguridad así como practicar en CTFs y plataformas como HackTheBox",
+    "company": "AllPentesting",
+    "twitter": "/RaSr98",
+    "website": "https://rafasojo.es/",
+    "linkedin": "https://www.linkedin.com/in/rafaelsojo"
   }
 ]
