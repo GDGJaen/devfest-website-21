@@ -22,6 +22,16 @@
     "linkedin": "https://www.linkedin.com/in/momartinm"
   },
   {
+    "id": "estefaniagarcia",
+    "name": "Estefanía García Gallardo",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/nia_daAEaRkCK.jpeg",
+    "bio": "Full stack dev | Creator of npkill | Org AngularMalaga | Intl speaker | Founder punto_tech | Obsessed with clean code",
+    "company": "Freelance",
+    "twitter": "/NyaBlk",
+    "github": "/nyagarcia",
+    "website": "https://npkill.js.org/"
+  },
+  {
     "id": "iblancasa",
     "name": "Israel Blancas Álvarez",
     "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/iblancasa_oMReJz478.jpeg",
@@ -31,6 +41,16 @@
     "github": "/iblancasa",
     "website": "http://iblancasa.com",
     "linkedin": "https://www.linkedin.com/in/iblancasa"
+  },
+  {
+    "id": "albertogutierrez",
+    "name": "Alberto Gutiérrez Juanes",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/alberto_Gw_6Kb6rk6.jpeg",
+    "bio": "Senior Software Engineer at Red Hat | Google Developer Expert in Google Cloud | GDG Organizer",
+    "company": "Red Hat",
+    "twitter": "/aljesusg",
+    "github": "/aljesusg",
+    "linkedin": "https://www.linkedin.com/in/aljesusg/"
   },
   {
     "id": "Eric_Lostie",
@@ -70,5 +90,31 @@
     "twitter": "/RaSr98",
     "website": "https://rafasojo.es/",
     "linkedin": "https://www.linkedin.com/in/rafaelsojo"
+  },
+  {
+    "id": "kx1z0",
+    "name": "Samuel Cruz",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/kx1z0_f1t2uXSxC.png?updatedAt=1638196650754",
+    "bio": "I am a cybersecurity fanatic | Python learner | I have obtained a CVE: CVE-2020-24329",
+    "company": "Wise Security Global",
+    "twitter": "/kx1z0",
+    "github": "/Kx1z0",
+    "website": "https://backdot.tk/"
+  },
+  {
+    "id": "0fjrm0",
+    "name": "Francisco Jesús Rodríguez Montero",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/0fjrm0_9qIJIPF-1.png",
+    "bio": "Miembro del Instituto Nacional de Ciberseguridad de España. Colaborador con las FCSE.",
+    "company": "Profesional Independiente",
+    "twitter": "/0fjrm0"
+  },
+  {
+    "id": "juaniamaro",
+    "name": "Juani Amaro Gonzalez",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/juani_rjIPPn09Dux.jpeg",
+    "bio": "Tecnico superior en desarrollo de aplicaciones multiplataforma",
+    "company": "Dapda",
+    "linkedin": "https://www.linkedin.com/in/juani-amaro-gonz%C3%A1lez-aa7005162"
   }
 ]
