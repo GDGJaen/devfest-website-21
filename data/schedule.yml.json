@@ -27,6 +27,14 @@
     "description": "En esta presentación aplicaremos los principios de código limpio sobre JavaScript. JavaScript siempre ha sido tratado como un lenguaje que por naturaleza es desordenado, sin estructuración, sin posibilidad de llegar más allá. En los últimos años, JavaScript está madurando proporcionando flexibilidad que permite construir código limpio a la vez que bello. En esta charla vamos a aplicar los clásicos principios de código limpio y la adaptación de otras recomendaciones en JavaScript, los temas que profundizaremos son: Antes de empezar a programar!, Variables, Funciones, Comentarios, Excepciones, Clases, Evita la complejidad condicional, Asincronismo (Async), Test\n"
   },
   {
+    "date": "10:00 am",
+    "title": "Guía del arquitecto galáctico",
+    "id": "cesalberca",
+    "speakerId": "cesalberca",
+    "speaker": "César Alberca",
+    "description": "El front se ha vuelto complejo. Muy complejo. Hemos pasado de usar JavaScript con jQuery a usar frameworks que nos ayudan con gestión del estado, componentes, nos abstraen de lidiar con el DOM e infinidad de cosas más. Pero... ¿Y cómo organizamos el código que no es del framework? ¿Debemos hacer separación por capas? ¿Debemos aplicar conceptos de arquitectura en el front? En esta charla hablaremos sobre conceptos de arquitectura de Software y debatiremos de qué forma se puede aplicar al frontend para que nuestras aplicaciones sean robustas y sólidas a la par que flexibles.\n"
+  },
+  {
     "date": "11:00 am",
     "title": "Desayuno ☕️",
     "id": "desayuno"

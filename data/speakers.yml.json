@@ -59,14 +59,19 @@
     "bio": "Creador de juegos de Pokémon y streamer | Pokémon Titan, Pokémon Iberia y Pokémon Ópalo",
     "company": "Streamer",
     "twitter": "/Eric_Lostie",
-    "twitch": "https://www.twitch.tv/ericlostie"
+    "website": "https://www.jesirgb.com/",
+    "linkedin": "https://www.twitch.tv/ericlostie"
   },
   {
-    "id": "pordesvelar3",
-    "name": "Por desvelar",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/incognito_0L43y5ZxsHU.png",
-    "bio": "Bio",
-    "company": "Company"
+    "id": "jesi_rgb",
+    "name": "Jesús Enrique Cartas Rascón",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/jesi_j2LHnJ--sa.jpeg",
+    "bio": "I am an Andalusian data journalist, chart lover, designer and musician | Data analyst and engineer | Created engaging animations earning 27.12M views as part of the Veritasium Creative team",
+    "company": "Freelance Mathematical Animator",
+    "twitter": "/jesi_rgb",
+    "github": "/jesi-rgb",
+    "website": "https://www.jesirgb.com",
+    "linkedin": "https://www.linkedin.com/in/jes%C3%BAs-enrique-cartas-rasc%C3%B3n-8716131a5/"
   },
   {
     "id": "ikicode",
@@ -89,11 +94,14 @@
     "linkedin": "https://www.linkedin.com/in/eduardosancheztoril"
   },
   {
-    "id": "pordesvelar1",
-    "name": "Por desvelar",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/incognito_0L43y5ZxsHU.png",
-    "bio": "Bio",
-    "company": "Company"
+    "id": "cesalberca",
+    "name": "César Alberca",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/cesar_5tZSGyAsX.jpeg",
+    "bio": "Desarrollador Frontend en Autentia | Profesor en cicemadrid | Miembro del comité CodemoMadrid | Me encanta aprender y compartir conocimiento",
+    "company": "Autentia",
+    "twitter": "/cesalberca",
+    "website": "https://cesalberca.com",
+    "linkedin": "https://www.linkedin.com/in/c%C3%A9sar-alberca-8ba52091/"
   },
   {
     "id": "kx1z0",
