@@ -20,11 +20,11 @@
   },
   {
     "date": "10:00 am",
-    "title": "Más allá del internet convencional: Darknets",
-    "id": "0fjrm0",
-    "speakerId": "0fjrm0",
-    "speaker": "Francisco Jesús Rodríguez Montero",
-    "description": "Viaje desde la internet convencional a las llamadas Darknets, centrándonos en la Red Tor, su funcionamiento y tipologías delictivas.\n"
+    "title": "Próximamente",
+    "id": "pordesvelar2",
+    "speakerId": "pordesvelar2",
+    "speaker": "Por desvelar",
+    "description": "Próximamente\n"
   },
   {
     "date": "11:00 am",
@@ -37,7 +37,7 @@
     "id": "kx1z0",
     "speakerId": "kx1z0",
     "speaker": "Samuel Cruz",
-    "description": "Una charla, desde el punto de vista red teamer, donde explicaré diferentes técnicas de enumeracion sobre la UJA, varias maneras posibles de conseguir una shell, y una fase final de post-explotacion.\n"
+    "description": "Enumerating, attacking and explaining real vulnerabilities of the UJA infrastructure. Using an attacker's perspective. We will see some red teaming techniques, analyze web vulnerabilities from a web pentester view, and play with them as if we were an attacker.\n"
   },
   {
     "date": "11:30 am",
@@ -107,11 +107,11 @@
   },
   {
     "date": "15:30 pm",
-    "title": "El peligro de las APTs",
-    "id": "RaSr98",
-    "speakerId": "RaSr98",
-    "speaker": "Rafael Sojo Ruíz",
-    "description": "En la charla muestro que es una APT así como ejemplos reales, cómo defenderse y ejemplos de cómo podría hacer un actor malicioso para llevar a cabo un ataque.\n"
+    "title": "Próximamente",
+    "id": "pordesvelar1",
+    "speakerId": "pordesvelar1",
+    "speaker": "Por desvelar",
+    "description": "Próximamente\n"
   },
   {
     "date": "16:30 pm",
