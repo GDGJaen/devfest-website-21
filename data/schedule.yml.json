@@ -20,11 +20,11 @@
   },
   {
     "date": "10:00 am",
-    "title": "Próximamente",
-    "id": "pordesvelar2",
-    "speakerId": "pordesvelar2",
-    "speaker": "Por desvelar",
-    "description": "Próximamente\n"
+    "title": "Clean Code Applied to JavaScript",
+    "id": "Carlillo",
+    "speakerId": "Carlillo",
+    "speaker": "Carlos Caballero González",
+    "description": "En esta presentación aplicaremos los principios de código limpio sobre JavaScript. JavaScript siempre ha sido tratado como un lenguaje que por naturaleza es desordenado, sin estructuración, sin posibilidad de llegar más allá. En los últimos años, JavaScript está madurando proporcionando flexibilidad que permite construir código limpio a la vez que bello. En esta charla vamos a aplicar los clásicos principios de código limpio y la adaptación de otras recomendaciones en JavaScript, los temas que profundizaremos son: Antes de empezar a programar!, Variables, Funciones, Comentarios, Excepciones, Clases, Evita la complejidad condicional, Asincronismo (Async), Test\n"
   },
   {
     "date": "11:00 am",
