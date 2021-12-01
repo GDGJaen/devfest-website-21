@@ -47,6 +47,7 @@ export default () => (
         diciembre de 2021 en la Universidad de Jaén.
       </p>
       <div>
+        <h2>Venta de entradas online</h2>
         <AnchorButton
           color="blue"
           href="https://billetto.es/e/devfest-2021-entradas-583107"
@@ -56,6 +57,12 @@ export default () => (
           Comprar entrada
         </AnchorButton>
       </div>
+      <h2>Venta de entradas presencial</h2>
+      <p>También puedes comprar las entradas en persona.</p>
+      <h4>⏰ Horario</h4>
+      <p>De Lunes a Viernes: 12:30-14:30 | 16:30-18:30</p>
+      <h4>📍 Lugar</h4>
+      <p>Universidad de Jaén, Edificio: C2-308</p>
     </Section>
 
     <Section>
