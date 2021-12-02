@@ -133,17 +133,19 @@
     "linkedin": "https://www.linkedin.com/in/juani-amaro-gonz%C3%A1lez-aa7005162"
   },
   {
-    "id": "pordesvelar4",
-    "name": "Por desvelar",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/incognito_0L43y5ZxsHU.png",
-    "bio": "Bio",
-    "company": "Company"
+    "id": "jesuscruz",
+    "name": "Jesús Cruz Bonoso",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/jesuscruz_1twSEUG4P.jpeg",
+    "bio": "Business Intelligence Consultant",
+    "company": "Bosonit",
+    "linkedin": "https://www.linkedin.com/in/jesuscruzbonoso/"
   },
   {
-    "id": "pordesvelar4",
-    "name": "Por desvelar",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/incognito_0L43y5ZxsHU.png",
-    "bio": "Bio",
-    "company": "Company"
+    "id": "sebastianmoya",
+    "name": "Sebastián Moya Pareja",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/sebastianmoya_9q8iczL-0.jpeg",
+    "bio": "Big Data Consultant",
+    "company": "Bosonit",
+    "linkedin": "https://www.linkedin.com/in/sebastianmoyapareja/"
   }
 ]

@@ -41,6 +41,14 @@
   },
   {
     "date": "11:30 am",
+    "title": "Construyendo jugadores inteligentes con IA (Taller)",
+    "id": "moisipm",
+    "speakerId": "moisipm",
+    "speaker": "Moisés M. Martínez",
+    "description": "La Inteligencia Artificial está demostrando capacidades excepcionales a la hora de construir sistemas que son capaces de extraer información del entorno y tomar decisiones en base a esa información con el objetivo de comportarse de forma similar a como lo hacemos los humanos o al menos parecerlo. Pero, en muchos casos es difícil encontrar entornos controlados del mundo real de pruebas que aporten la suficiente información para construir estos sistemas. Uno de los entornos más utilizados para la construcción de sistemas basados en Inteligencia Artificial son los videojuegos, ya que nos ofrecen entornos controlados que permiten generar un gran conjunto de información de manera sencilla. En este taller aprenderemos como construir agentes inteligentes mediante la utilización de técnicas de Inteligencia Artificial que nos permitan jugar a un videojuego comercial.\n"
+  },
+  {
+    "date": "11:30 am",
     "title": "Attacking UJA",
     "id": "kx1z0",
     "speakerId": "kx1z0",
@@ -55,13 +63,14 @@
     "speaker": "Israel Blancas Álvarez & Alberto Gutiérrez Juanes",
     "description": "Próximamente\n"
   },
+
   {
     "date": "11:30 am",
-    "title": "Construyendo jugadores inteligentes con IA (Taller)",
-    "id": "moisipm",
-    "speakerId": "moisipm",
-    "speaker": "Moisés M. Martínez",
-    "description": "La Inteligencia Artificial está demostrando capacidades excepcionales a la hora de construir sistemas que son capaces de extraer información del entorno y tomar decisiones en base a esa información con el objetivo de comportarse de forma similar a como lo hacemos los humanos o al menos parecerlo. Pero, en muchos casos es difícil encontrar entornos controlados del mundo real de pruebas que aporten la suficiente información para construir estos sistemas. Uno de los entornos más utilizados para la construcción de sistemas basados en Inteligencia Artificial son los videojuegos, ya que nos ofrecen entornos controlados que permiten generar un gran conjunto de información de manera sencilla. En este taller aprenderemos como construir agentes inteligentes mediante la utilización de técnicas de Inteligencia Artificial que nos permitan jugar a un videojuego comercial.\n"
+    "title": "Despega tu carrera en Big Data y Business Intelligence",
+    "id": "jesuscruz",
+    "speakerId": "jesuscruz",
+    "speaker": "Jesús Cruz Bonoso & Sebastián Moya Pareja",
+    "description": "¿Quieres conocer las tecnologías más disruptivas de Data? Ven con nosotros para conocer todos los secretos relacionados con Big Data y Business Intelligence. Se expondrá cómo estructurar y procesar el dato para posteriormente visualizarlo a través de las tecnologías más utilizadas en el sector.\n"
   },
   {
     "date": "12:30 pm",
