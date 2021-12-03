@@ -124,11 +124,19 @@
   },
   {
     "date": "15:30 pm",
-    "title": "Próximamente",
-    "id": "pordesvelar1",
-    "speakerId": "pordesvelar1",
-    "speaker": "Por desvelar",
-    "description": "Próximamente\n"
+    "title": "El peligro de las APTs",
+    "id": "RaSr98",
+    "speaker": "Rafael Sojo Ruíz",
+    "speakerId": "RaSr98",
+    "description": "En la charla muestro que es una APT así como ejemplos reales, cómo defenderse y ejemplos de cómo podría hacer un actor malicioso para llevar a cabo un ataque.\n"
+  },
+  {
+    "date": "15:30 pm",
+    "title": "Creación de animaciones matemáticas con Python y Manim",
+    "id": "jesi_rgb",
+    "speaker": "Jesús Enrique Cartas Rascón",
+    "speakerId": "jesi_rgb",
+    "description": "De los miles de paquetes disponibles para Python, Manim es una librería especial que nos permite crear animaciones de forma extremadamente sencilla utilizando código. Aprovechando las ventajas que nos ofrece la programación, como los bucles o condicionales, podemos crear animaciones realmente complejas, o simulaciones que de otra forma sería muy difícil conseguir. Esto se exporta finalmente en un vídeo que podemos compartir con el mundo, haciendo del proceso de creación de contenido multimedia educativo algo divertido y mucho más útil, tanto para el creador como para el consumidor.\n"
   },
   {
     "date": "16:30 pm",
