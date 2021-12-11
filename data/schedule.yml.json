@@ -144,7 +144,7 @@
     "id": "break3"
   },
   {
-    "date": "17:30 pm",
+    "date": "17:00 pm",
     "title": "TC39 - From the proposal to ECMAScript - Step by Step",
     "id": "romulocintra",
     "speakerId": "romulocintra",
@@ -152,7 +152,7 @@
     "description": "It's a talk that goes beyond how the ECMAScript language and shares how the process of a proposal lands on the language then in the browser, goes thruwh the edge cases of certain proposals, how to get involved help and test.\n"
   },
   {
-    "date": "17:30 pm",
+    "date": "17:00 pm",
     "title": "Creación de fangames",
     "id": "Eric_Lostie",
     "speakerId": "Eric_Lostie",
@@ -160,7 +160,7 @@
     "description": "Hablo sobre mi experiencia en la creación de fangames y cómo puede ser útil para dar el salto a la industria indie.\n"
   },
   {
-    "date": "17:30 pm",
+    "date": "17:00 pm",
     "title": "Diseño web, UX y SEO los tres pilares que harán triunfar tu web",
     "id": "juaniamaro",
     "speakerId": "juaniamaro",
@@ -168,7 +168,7 @@
     "description": "¿Qué es necesario tener en cuenta para tener una web competente? Enseñaremos algunas de las buenas practicas en el diseño web, el User Experience y el SEO que impulsaran tu web.\n"
   },
   {
-    "date": "18:30 pm",
+    "date": "18:00 pm",
     "title": "Clausura 👋",
     "id": "clausura"
   }
