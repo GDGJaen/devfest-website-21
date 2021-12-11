@@ -67,6 +67,14 @@
       "logo": " https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/nxtgen_ty6qi-01w.png",
       "tier": "silver",
       "width": "150px"
+    },
+    {
+      "id": "nxtgen",
+      "name": "Santo Reino",
+      "link": "https://www.santoreino.es/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/santo_reino_MbZ8IjPSBg6.png",
+      "tier": "silver",
+      "width": "120px"
     }
   ],
   "bronze": []
