@@ -10,6 +10,7 @@ export default () => (
     <Section>
       <PageTitle>Lugar de encuentro</PageTitle>
       <p>En las instalaciones de la Universidad de Jaén.</p>
+      <h2>Edificio A4</h2>
       <VenueMap />
     </Section>
 
