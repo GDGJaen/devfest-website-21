@@ -11,69 +11,45 @@
   ],
   "gold": [
     {
-      "id": "vicerrectorado-de-Estudiantes",
-      "name": "Vicerrectorado de Estudiantes",
-      "link": "https://www.ujaen.es",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/uja_BWq4lNcsAA.png",
-      "tier": "gold",
-      "width": "290px"
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
+      "width": "200px"
     },
     {
-      "id": "software-DELSOL",
-      "name": "Software DELSOL",
-      "link": "https://www.sdelsol.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/software-delsol_Clr7qoM3E.png",
-      "tier": "gold",
-      "width": "290px"
-    },
-    {
-      "id": "bosonit",
-      "name": "Bosonit",
-      "link": "https://bosonit.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/bosonit_7CVb8-Jnl.png",
-      "tier": "gold",
-      "width": "290px"
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
+      "width": "200px"
     }
   ],
   "silver": [
     {
-      "id": "epsj",
-      "name": "Escuela Politécnica Superior de Jaén",
-      "link": "https://eps.ujaen.es/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/epsj_MG60NZ8dO.png",
-      "tier": "silver",
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
       "width": "120px"
     },
     {
-      "id": "dapda",
-      "name": "Dapda",
-      "link": "https://dapda.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/dapda_W2A0GP0Z5g9.png",
-      "tier": "silver",
-      "width": "140px"
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
+      "width": "120px"
     },
     {
-      "id": "autentia",
-      "name": "Autentia",
-      "link": "https://www.autentia.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/autentia_gEEcMb_mL.png",
-      "tier": "silver",
-      "width": "200px"
-    },
-    {
-      "id": "nxtgen",
-      "name": "NXTGEN",
-      "link": "https://nxtgen.com/",
-      "logo": " https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/nxtgen_ty6qi-01w.png",
-      "tier": "silver",
-      "width": "150px"
-    },
-    {
-      "id": "nxtgen",
-      "name": "Santo Reino",
-      "link": "https://www.santoreino.es/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/santo_reino_MbZ8IjPSBg6.png",
-      "tier": "silver",
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
       "width": "120px"
     }
   ],

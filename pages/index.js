@@ -35,34 +35,34 @@ export default () => (
           width="120px"
           style={{ position: "relative", top: "11px" }}
         />
-        DevFest Jaén 2021
+        DevFest Jaén 2022
       </Title>
     </Section>
 
     <Section color="green">
-      <h1>11 de Diciembre, 2021</h1>
+      <h1>19 de Noviembre, 2022</h1>
       <p>
         DevFest es una conferencia inclusiva de un solo día para todos los
-        desarrolladores. GDG Jaén te invita a unirte a nosotros el sábado 11 de
-        diciembre de 2021 en la Universidad de Jaén.
+        desarrolladores. GDG Jaén te invita a unirte a nosotros el sábado 19 de
+        Noviembre de 2022 en la Universidad de Jaén.
       </p>
       <div>
         <h2>Venta de entradas online</h2>
         <AnchorButton
           color="blue"
-          href="https://billetto.es/e/devfest-2021-entradas-583107"
+          href="https://billetto.es/e/devfest-2022-entradas-680615"
           target="_blank"
           rel="noopener noreferrer"
         >
           Comprar entrada
         </AnchorButton>
       </div>
-      <h2>Venta de entradas presencial</h2>
+      {/* <h2>Venta de entradas presencial</h2>
       <p>También puedes comprar las entradas en persona.</p>
       <h4>⏰ Horario</h4>
       <p>De Lunes a Viernes: 12:30-14:30 | 16:30-18:30</p>
       <h4>📍 Lugar</h4>
-      <p>Universidad de Jaén, Edificio: C2-308</p>
+      <p>Universidad de Jaén, Edificio: C2-308</p> */}
     </Section>
 
     <Section>
@@ -72,7 +72,8 @@ export default () => (
 
     <Section color="blue">
       <OffsetHeading id="schedule">Programación del evento</OffsetHeading>
-      <Schedule schedule={schedule} />
+      {/* <Schedule schedule={schedule} /> */}
+      <h2>Próximamente</h2>
     </Section>
 
     <Section>

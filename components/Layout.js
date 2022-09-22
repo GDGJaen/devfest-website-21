@@ -13,10 +13,10 @@ const Main = styled.main`
 const Layout = (props) => (
   <div>
     <Head>
-      <title>DevFest GDG Jaén 2021</title>
+      <title>DevFest GDG Jaén 2022</title>
       <meta
         name="description"
-        content="El DevFest GDG Jaén 2021 es una gran conferencia multi-plataforma de carácter inclusivo para tod@s l@s developers. ¡El GDG te invita a unirte en Jaén, el 11 de Diciembre de 2021 en la Universidad de Jaén!"
+        content="El DevFest GDG Jaén 2022 es una gran conferencia multi-plataforma de carácter inclusivo para tod@s l@s developers. ¡El GDG te invita a unirte en Jaén, el 19 de Noviembre de 2022 en la Universidad de Jaén!"
       />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
@@ -32,7 +32,7 @@ const Layout = (props) => (
       <meta name="twitter:title" content="DevFest GDG Jaén 2021" />
       <meta
         name="twitter:description"
-        content="El DevFest GDG Jaén 2021 es una gran conferencia multi-plataforma de carácter inclusivo para tod@s l@s developers. ¡El GDG te invita a unirte en Jaén, el 11 de Diciembre de 2021 en la Universidad de Jaén!"
+        content="El DevFest GDG Jaén 2022 es una gran conferencia multi-plataforma de carácter inclusivo para tod@s l@s developers. ¡El GDG te invita a unirte en Jaén, el 19 de Noviembre de 2022 en la Universidad de Jaén!"
       />
       <meta name="twitter:creator" content="@GDG_NewOrleans" />
       <meta
