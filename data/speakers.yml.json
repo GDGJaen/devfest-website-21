@@ -1,26 +1,61 @@
 [
   {
-    "id": "ponente1",
-    "name": "Ponente 1",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
-    "bio": "Bio",
-    "company": "Trabajo",
-    "twitter": "/",
-    "github": "/",
-    "website": "/",
-    "linkedin": "/",
-    "profile": "/"
+    "id": "luisg",
+    "name": "Luis García Millán",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/luis_A9cc6uNI_.jpg",
+    "bio": "Co-Founder & CMO",
+    "company": "Deditec",
+    "twitter": "GarciaMillanLui",
+    "linkedin": "https://www.linkedin.com/in/luisgarciamillan/"
   },
   {
-    "id": "ponente2",
-    "name": "Ponente 2",
+    "id": "amontejo",
+    "name": "Arturo Montejo Ráez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/amontejo_1KOtVaB52L.jpg",
+    "bio": "Profesor e Investigador",
+    "company": "Universidad de Jaén",
+    "twitter": "amontejoraez"
+  },
+  {
+    "id": "moimartinez",
+    "name": "Moisés Martínez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/moises_IDu70NoMe.jpg",
+    "bio": "Data & AI Lead - ​GDE in Machine Learning",
+    "company": "Paradigma Digital",
+    "twitter": "moisipm",
+    "github": "momartinm",
+    "linkedin": "https://www.linkedin.com/in/momartinm/"
+  },
+  {
+    "id": "jlopez",
+    "name": "Javier López Martínez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/javierlopez_NuWKs0-1P.jpg",
+    "bio": "Cloud Engineering Senior Manager - GDE in Cloud",
+    "company": "Deloitte",
+    "twitter": "javioreto",
+    "linkedin": "https://www.linkedin.com/in/jlopezmartinez/"
+  },
+  {
+    "id": "merche",
+    "name": "Mercedes Rodríguez García",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/mercedes_FQVRWs6e_D.jpg",
+    "bio": "AI Conversational Specialist - GDE in Assistant",
+    "company": "GFT",
+    "linkedin": "https://www.linkedin.com/in/mrodriguez-garcia/"
+  },
+  {
+    "id": "dcoy",
+    "name": "Diego Coy",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/diegocoy_A83t1sBYS.jpeg",
+    "bio": "GDE in Web & Maps",
+    "company": "GDE",
+    "twitter": "unjavascripter"
+  },
+  {
+    "id": "soon",
+    "name": "Próximamente más...",
     "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
-    "bio": "Bio",
-    "company": "Trabajo",
-    "twitter": "/",
-    "github": "/",
-    "website": "/",
-    "linkedin": "/",
-    "profile": "/"
+    "bio": ";)"
   }
 ]
+

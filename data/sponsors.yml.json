@@ -29,28 +29,12 @@
   ],
   "silver": [
     {
-      "id": "google",
-      "name": "Google",
-      "link": "https://developers.google.com/programs/community/",
-      "logo": "/static/googlelogo.png",
+      "id": "brooktec",
+      "name": "Brooktec",
+      "link": "https://brooktec.com/home",
+      "logo": "https://ik.imagekit.io/gdgjaen/website/sponsors/brktc-logo-b-claim__1__tFSuqbMJh.svg",
       "tier": "platinum",
-      "width": "120px"
-    },
-    {
-      "id": "google",
-      "name": "Google",
-      "link": "https://developers.google.com/programs/community/",
-      "logo": "/static/googlelogo.png",
-      "tier": "platinum",
-      "width": "120px"
-    },
-    {
-      "id": "google",
-      "name": "Google",
-      "link": "https://developers.google.com/programs/community/",
-      "logo": "/static/googlelogo.png",
-      "tier": "platinum",
-      "width": "120px"
+      "width": "300px"
     }
   ],
   "bronze": []
