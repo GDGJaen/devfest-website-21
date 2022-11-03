@@ -52,10 +52,60 @@
     "twitter": "unjavascripter"
   },
   {
+    "id": "mariafornieles",
+    "name": "María Fornieles",
+    "image": "https://pbs.twimg.com/profile_images/1369055593621766145/B2td7jRO_400x400.jpg",
+    "bio": "Artista Técnica. Autora de «Marketing para Imbéciles. Asesora de Marketing para videojuegos, autónom@s, y principiantes del mundo.",
+    "twitter": "mariavidela"
+  },
+  {
+    "id": "josemariaperez",
+    "name": "Jose Maria Perez Forte",
+    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+    "bio": "Informático // Desarrollador de Android // Computer technician // Android Dev",
+    "company": "LineageOS",
+    "linkedin": "https://www.linkedin.com/in/josé-maría-pérez-forte-84a049180/"
+  },
+  {
+    "id": "camilabarrantes",
+    "name": "Camila Barrantes",
+    "image": "https://media.licdn.com/dms/image/C5603AQFZdtchGVv6WA/profile-displayphoto-shrink_200_200/0/1657566587774?e=1672876800&v=beta&t=KvTNyWvOOaBmwmzcKbB_2aU4gzlbfjqBsJl0WMQudzk",
+    "bio": "Head of Marketing | AR/VR Marketing Specialist | Product Manager | AEC | Industry 4.0",
+    "company": "VT-Lab",
+    "linkedin": "https://www.linkedin.com/in/camila-barrantes-hernandez/"
+  },
+  {
+    "id": "ikicode",
+    "name": "Jose Manuel Márquez",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/ikicode_jIVp8Ik-i.jpeg",
+    "bio": "Tech Lead & Co-founder at Código Base - Product Team as a Service - Development with Flutter",
+    "company": "Código Base",
+    "twitter": "ikicode",
+    "website": "https://codigobase.es",
+    "linkedin": "https://www.linkedin.com/in/jose-manuel-marquez/"
+  },
+  {
+    "id": "nicolaspatarino",
+    "name": "Nicolás Patarino",
+    "image": "https://pbs.twimg.com/profile_images/1502381574259621905/iwnj0Lde_400x400.jpg",
+    "bio": "🔥 Asador del software. Staff Android @Eventbrite, formerly @TymitApp, @TuentiEng, @Idealista...",
+    "company": "Código Base",
+    "twitter": "npatarino",
+    "website": "https://chimichurrico.de/",
+    "linkedin": "https://www.linkedin.com/in/npatarino/"
+  },
+  {
+    "id": "anagomezlopez",
+    "name": "Ana Gómez López",
+    "image": "https://media.licdn.com/dms/image/C4D03AQGmbvtlohIn0w/profile-displayphoto-shrink_800_800/0/1540415245969?e=1672876800&v=beta&t=5X2R80FDnmu0VciFlJXFDuorU1L0N68qsRJyE7uWHJA",
+    "bio": "Web Developer en Brooktec",
+    "company": "Brooktec",
+    "linkedin": "https://www.linkedin.com/in/agl/"
+  },
+  {
     "id": "soon",
     "name": "Próximamente más...",
     "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
     "bio": ";)"
   }
 ]
-
