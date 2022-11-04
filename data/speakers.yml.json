@@ -67,12 +67,12 @@
     "linkedin": "https://www.linkedin.com/in/josé-maría-pérez-forte-84a049180/"
   },
   {
-    "id": "camilabarrantes",
-    "name": "Camila Barrantes",
-    "image": "https://media.licdn.com/dms/image/C5603AQFZdtchGVv6WA/profile-displayphoto-shrink_200_200/0/1657566587774?e=1672876800&v=beta&t=KvTNyWvOOaBmwmzcKbB_2aU4gzlbfjqBsJl0WMQudzk",
-    "bio": "Head of Marketing | AR/VR Marketing Specialist | Product Manager | AEC | Industry 4.0",
+    "id": "ivangomez",
+    "name": "Ivan Gomez",
+    "image": "https://media.licdn.com/dms/image/C4E03AQGlSzxjmLBhhw/profile-displayphoto-shrink_200_200/0/1579817591203?e=1672876800&v=beta&t=hD4hfGqe4zIHseBceGihBF_f0fGFhON2t4BdT2I3e-s",
+    "bio": "CEO & Founder de VT-LAB - VR+AR (XR)+BIM -METAVERSE AEC-",
     "company": "VT-Lab",
-    "linkedin": "https://www.linkedin.com/in/camila-barrantes-hernandez/"
+    "linkedin": "https://www.linkedin.com/in/ivan-gomez-rodriguez-vtlab/"
   },
   {
     "id": "ikicode",
@@ -83,16 +83,6 @@
     "twitter": "ikicode",
     "website": "https://codigobase.es",
     "linkedin": "https://www.linkedin.com/in/jose-manuel-marquez/"
-  },
-  {
-    "id": "nicolaspatarino",
-    "name": "Nicolás Patarino",
-    "image": "https://pbs.twimg.com/profile_images/1502381574259621905/iwnj0Lde_400x400.jpg",
-    "bio": "🔥 Asador del software. Staff Android @Eventbrite, formerly @TymitApp, @TuentiEng, @Idealista...",
-    "company": "Código Base",
-    "twitter": "npatarino",
-    "website": "https://chimichurrico.de/",
-    "linkedin": "https://www.linkedin.com/in/npatarino/"
   },
   {
     "id": "anagomezlopez",
