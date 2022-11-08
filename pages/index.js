@@ -73,7 +73,6 @@ export default () => (
     <Section color="blue">
       <OffsetHeading id="schedule">Programación del evento</OffsetHeading>
       <Schedule schedule={schedule} />
-      <h2>Próximamente</h2>
     </Section>
 
     <Section>
