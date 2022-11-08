@@ -116,11 +116,11 @@
   },
   {
     "date": "15:30 am",
-    "title": "TODO",
+    "title": "Coming..",
     "id": "ivangomez",
     "speakerId": "ivangomez",
     "speaker": "Iván Gómez",
-    "description": "TODO \n"
+    "description": "Coming.. \n"
   },
   {
     "date": "15:30 pm",
@@ -153,19 +153,19 @@
   },
   {
     "date": "17:00 pm",
-    "title": "TC39 - From the proposal to ECMAScript - Step by Step",
-    "id": "romulocintra",
-    "speakerId": "romulocintra",
-    "speaker": "Romulo Cintra",
-    "description": "It's a talk that goes beyond how the ECMAScript language and shares how the process of a proposal lands on the language then in the browser, goes thruwh the edge cases of certain proposals, how to get involved help and test.\n"
+    "title": "La travesía de una coordenada GPS: Desde el hardware hasta un marcador en tu pantalla",
+    "id": "dcoy",
+    "speakerId": "dcoy",
+    "speaker": "Diego Coy",
+    "description": "Una presentación que cubre los conceptos básicos alrededor de la obtención de una coordenada GPS a través de un microcontrolador, su transmisión y procesamiento en la nube, y finalmente su presentación en Google Maps. \n"
   },
   {
     "date": "17:00 pm",
-    "title": "Diseño web, UX y SEO los tres pilares que harán triunfar tu web",
-    "id": "juaniamaro",
-    "speakerId": "juaniamaro",
-    "speaker": "Juani Amaro Gonzalez",
-    "description": "¿Qué es necesario tener en cuenta para tener una web competente? Enseñaremos algunas de las buenas practicas en el diseño web, el User Experience y el SEO que impulsaran tu web.\n"
+    "title": "Marketing para videojuegos indies",
+    "id": "mariafornieles",
+    "speakerId": "mariafornieles",
+    "speaker": "María Fornieles",
+    "description": "En esta charla aprenderemos las claves más importantes del marketing digital, cómo aplicarlas a nuestro videojuego indie ¡y no morir en el intento! \n"
   },
   {
     "date": "18:00 pm",
