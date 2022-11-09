@@ -7,34 +7,58 @@
       "logo": "/static/googlelogo.png",
       "tier": "platinum",
       "width": "370px"
+    },
+    {
+      "id": "diputacionjaen",
+      "name": "Diputación de Jaén",
+      "link": "https://www.dipujaen.es/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/diputacionJaen_Ah44ySYXP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667998469711",
+      "tier": "platinum",
+      "width": "330px"
     }
   ],
   "gold": [
     {
-      "id": "google",
-      "name": "Google",
-      "link": "https://developers.google.com/programs/community/",
-      "logo": "/static/googlelogo.png",
-      "tier": "platinum",
-      "width": "200px"
+      "id": "vicerrectorado-de-Estudiantes",
+      "name": "Vicerrectorado de Estudiantes",
+      "link": "https://www.ujaen.es",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/uja_BWq4lNcsAA.png",
+      "tier": "gold",
+      "width": "290px"
     },
     {
-      "id": "google",
-      "name": "Google",
-      "link": "https://developers.google.com/programs/community/",
-      "logo": "/static/googlelogo.png",
-      "tier": "platinum",
-      "width": "200px"
+      "id": "bosonit",
+      "name": "Bosonit",
+      "link": "https://bosonit.com/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/bosonit_7CVb8-Jnl.png",
+      "tier": "gold",
+      "width": "290px"
     }
   ],
   "silver": [
     {
+      "id": "epsj",
+      "name": "Escuela Politécnica Superior de Jaén",
+      "link": "https://eps.ujaen.es/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/epsj_MG60NZ8dO.png",
+      "tier": "silver",
+      "width": "120px"
+    },
+    {
       "id": "brooktec",
       "name": "Brooktec",
-      "link": "https://brooktec.com/home",
-      "logo": "https://ik.imagekit.io/gdgjaen/website/sponsors/brktc-logo-b-claim__1__tFSuqbMJh.svg",
-      "tier": "platinum",
-      "width": "300px"
+      "link": "https://brooktec.com/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/brooktec.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667998667508",
+      "tier": "silver",
+      "width": "160px"
+    },
+    {
+      "id": "santoreino",
+      "name": "Santo Reino",
+      "link": "https://www.santoreino.es/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/santo_reino_MbZ8IjPSBg6.png",
+      "tier": "silver",
+      "width": "120px"
     }
   ],
   "bronze": []

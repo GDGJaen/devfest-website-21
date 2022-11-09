@@ -28,11 +28,11 @@
   },
   {
     "date": "10:00 am",
-    "title": "Screenshot testing in Jetpack Compose: Lights and Shadows",
-    "id": "olmogallegos",
-    "speakerId": "olmogallegos",
-    "speaker": "Olmo Gallegos",
-    "description": "En esta charla discutiremos los costes de la calidad de código: Comentaremos ventajas e inconvenientes de tener la más completa suite de Tests en una arquitectura Android. Abarcando Screenshot Tests, UI Tests y Tests unitarios. Luces y sombras de un impresionante proyecto heredado del equipo de Karumi.\n"
+    "title": "5 Herramientas fundamentales de Google para una web",
+    "id": "luisg",
+    "speakerId": "luisg",
+    "speaker": "Luis Garcia Millán",
+    "description": "Tratar tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
   },
   {
     "date": "11:00 am",
@@ -87,11 +87,11 @@
   },
   {
     "date": "12:45 am",
-    "title": "5 Herramientas fundamentales de Google para una web",
-    "id": "luisg",
-    "speakerId": "luisg",
-    "speaker": "Luis Garcia Millán",
-    "description": "Tratar tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
+    "title": "Screenshot testing in Jetpack Compose: Lights and Shadows",
+    "id": "olmogallegos",
+    "speakerId": "olmogallegos",
+    "speaker": "Olmo Gallegos",
+    "description": "En esta charla discutiremos los costes de la calidad de código: Comentaremos ventajas e inconvenientes de tener la más completa suite de Tests en una arquitectura Android. Abarcando Screenshot Tests, UI Tests y Tests unitarios. Luces y sombras de un impresionante proyecto heredado del equipo de Karumi.\n"
   },
   {
     "date": "12:45 am",
@@ -116,11 +116,11 @@
   },
   {
     "date": "15:30 am",
-    "title": "Coming..",
+    "title": "La importancia del BIM en el Metaverso (BIM + VR/AR)",
     "id": "ivangomez",
     "speakerId": "ivangomez",
     "speaker": "Iván Gómez",
-    "description": "Coming.. \n"
+    "description": "Asentando las bases del Metaverso del sector AEC gracias a la integración del BIM en Realidad Virtual y Aumentada en VT-Platform. Trabaja con tus modelos BIM en AR y VR con el fin de aumentar la productividad de tus procesos en cualquier fase del ciclo de vida de un activo AEC, desde cualquier dispositivo sin necesidad de tener conocimientos en BIM. Mejora la colaboración entre obra y oficina, reduce tiempo y ahorra costes. \n"
   },
   {
     "date": "15:30 pm",
