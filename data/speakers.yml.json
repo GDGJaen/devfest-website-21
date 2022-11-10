@@ -56,7 +56,7 @@
     "id": "olmogallegos",
     "name": "Olmo Gallegos",
     "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/olmodev.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667997828108",
-    "bio": "Administrador - Analista Programador - Analista - Desarrollador Web - Programador - Técnico de Bases de Datos",
+    "bio": "Android Engineer",
     "company": "Klisst",
     "twitter": "olmoDev"
   },
@@ -70,7 +70,7 @@
   },
   {
     "id": "rosemarie",
-    "name": "Rosemarie Garcia Lopez",
+    "name": "Rosemarie García López",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFK1bTQLpefVQ/profile-displayphoto-shrink_800_800/0/1653292580613?e=1673481600&v=beta&t=yNrTxThniWf5bLBuhI7wwxRvb5_7OuHXXzWeybiGtJs",
     "bio": "UX/UI Designer & Researcher based in Mataró, Spain | Google WTM Barcelona Co Organizer | FoF Avocate",
     "company": "Women Techmakers Barcelona",
@@ -102,7 +102,7 @@
   },
   {
     "id": "josemariaperez",
-    "name": "Jose Maria Perez Forte",
+    "name": "José María Pérez Forte",
     "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/josemaria_DU5PLSkIY.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667999278815",
     "bio": "Informático // Desarrollador de Android // Computer technician // Android Dev",
     "company": "LineageOS",
@@ -110,7 +110,7 @@
   },
   {
     "id": "ivangomez",
-    "name": "Ivan Gomez",
+    "name": "Iván Gómez",
     "image": "https://media.licdn.com/dms/image/C4E03AQGlSzxjmLBhhw/profile-displayphoto-shrink_200_200/0/1579817591203?e=1672876800&v=beta&t=hD4hfGqe4zIHseBceGihBF_f0fGFhON2t4BdT2I3e-s",
     "bio": "CEO & Founder de VT-LAB - VR+AR (XR)+BIM -METAVERSE AEC-",
     "company": "VT-Lab",
@@ -118,7 +118,7 @@
   },
   {
     "id": "ikicode",
-    "name": "Jose Manuel Márquez",
+    "name": "José Manuel Márquez",
     "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/ikicode_jIVp8Ik-i.jpeg",
     "bio": "Tech Lead & Co-founder at Código Base - Product Team as a Service - Development with Flutter",
     "company": "Código Base",
@@ -133,11 +133,5 @@
     "bio": "Web Developer en Brooktec",
     "company": "Brooktec",
     "linkedin": "https://www.linkedin.com/in/agl/"
-  },
-  {
-    "id": "soon",
-    "name": "Próximamente más...",
-    "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
-    "bio": ";)"
   }
 ]
