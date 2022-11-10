@@ -20,6 +20,14 @@
   },
   {
     "date": "10:00 am",
+    "title": "Docker, sujétame el cubata",
+    "id": "marioezquerro",
+    "speakerId": "marioezquerro",
+    "speaker": "Mario Ezquerro Sáenz",
+    "description": "En esta charla hablaremos de Docker, mostrando las posibles soluciones y aplicaciones que nos ofrece además de ver cómo podemos integrarlo dentro de otros sistemas con o sin orquestación.\n"
+  },
+  {
+    "date": "10:00 am",
     "title": "5 Herramientas fundamentales de Google para una web",
     "id": "luisg",
     "speakerId": "luisg",
@@ -108,7 +116,7 @@
   },
   {
     "date": "15:30 pm",
-    "title": "Será el próximo Vincent Van Goth un robot? La creatividad en el mundo de la IA.",
+    "title": "¿Será el próximo Vincent Van Goth un robot? La creatividad en el mundo de la IA.",
     "id": "moimartinez",
     "speakerId": "moimartinez",
     "speaker": "Moisés Martínez",
