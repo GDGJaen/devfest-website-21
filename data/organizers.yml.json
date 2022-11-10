@@ -1,16 +1,10 @@
 [
   {
-    "id": "gomez",
-    "name": "Rafael Gómez",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
-    "github": "rgomez96"
-  },
-  {
-    "id": "luque",
-    "name": "Mara Luque",
-    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
-    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
-    "twitter": "m4r4__"
+    "id": "checa",
+    "name": "Alberto Checa",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
+    "bio": "Estudiante en Universidad de Jaén.",
+    "linkedin": "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160"
   },
   {
     "id": "alferez",
@@ -33,20 +27,18 @@
     "twitter": "mgermanm0"
   },
   {
+    "id": "gomez",
+    "name": "Rafael Gómez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
+    "github": "rgomez96"
+  },
+  {
     "id": "honrubia",
     "name": "José Honrubia",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHmsf-8Xgq2cg/profile-displayphoto-shrink_200_200/0/1661809315192?e=1669248000&v=beta&t=1na33GFLwLSw-VHf0tyACIoVeZESInmLgHx92yPz70w",
     "bio": "Electrical Engineer and Master in Industrial Engineer with leadership, hard-worker, teamwork and curiosity. Passionate about engineering, math, new energies and solving problems.",
     "linkedin": "https://www.linkedin.com/in/jhonrubia"
   },
-  {
-    "id": "rus",
-    "name": "Jose Manuel Rus",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
-    "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
-    "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
-  },
-
   {
     "id": "jesi",
     "name": "Jesús Enrique",
@@ -55,6 +47,28 @@
     "github": "jesi-rgb",
     "twitter": "jesi_rgb",
     "website": "https://thinking-thoughts.vercel.app"
+  },
+  {
+    "id": "davidmartinez",
+    "name": "David Martinez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/david_SuMxE4JH9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658315804749",
+    "bio": "Próximamente...",
+    "twitter": "ZeroFreyzer",
+    "github": "FreyzerFault"
+  },
+  {
+    "id": "rus",
+    "name": "Jose Manuel Rus",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
+    "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
+    "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
+  },
+  {
+    "id": "luque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
+    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
+    "twitter": "m4r4__"
   },
   {
     "id": "abedraba",
@@ -66,20 +80,5 @@
     "github": "aabedraba",
     "website": "https://aabedraba.com",
     "linkedin": "https://www.linkedin.com/in/aabedraba"
-  },
-  {
-    "id": "davidmartinez",
-    "name": "David Martinez",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/david_SuMxE4JH9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658315804749",
-    "bio": "Próximamente...",
-    "twitter": "ZeroFreyzer",
-    "github": "FreyzerFault"
-  },
-  {
-    "id": "checa",
-    "name": "Alberto Checa",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
-    "bio": "Estudiante en Universidad de Jaén.",
-    "linkedin": "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160"
   }
 ]
