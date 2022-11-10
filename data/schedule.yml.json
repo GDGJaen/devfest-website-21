@@ -12,14 +12,6 @@
   },
   {
     "date": "10:00 am",
-    "title": "Que es como funciona aplicación práctica",
-    "id": "marioezquerro",
-    "speakerId": "marioezquerro",
-    "speaker": "Mario Ezquerro",
-    "description": "Una charla con algunas pequeñas intenciones técnicas que no hable mucho de comandos pero sí de posibles soluciones y aplicaciones o como integrarlo dentro de otros sistemas con orquestación o sin orpestación.\n"
-  },
-  {
-    "date": "10:00 am",
     "title": "Inteligencia artificial para el lenguaje humano en pocas líneas de código",
     "id": "amontejo",
     "speakerId": "amontejo",
@@ -32,7 +24,7 @@
     "id": "luisg",
     "speakerId": "luisg",
     "speaker": "Luis Garcia Millán",
-    "description": "Tratar tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
+    "description": "Trataremos tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
   },
   {
     "date": "11:00 am",
@@ -45,7 +37,7 @@
     "id": "merche",
     "speakerId": "merche",
     "speaker": "Mercedes Rodríguez García",
-    "description": "Descripción de casos de uso reales de agentes conversacionales en el sector de la automoción, principales dificultades y posibles soluciones.\n"
+    "description": "Describiremos casos de uso reales de agentes conversacionales en el sector de la automoción, sus principales dificultades y soluciones.\n"
   },
   {
     "date": "11:30 am",
@@ -53,20 +45,28 @@
     "id": "rosemarie",
     "speakerId": "rosemarie",
     "speaker": "Rosemarie Garcia Lopez",
-    "description": "De que trata el programa WomenTech Makers y como impulsar tu carrera al ser embajador(a).\n"
+    "description": "Conocerás la finalidad principal del programa WomenTech Makers y como impulsar tu carrera al ser embajador(a) de este.\n"
   },
   {
     "date": "11:30 am",
-    "title": "Introducción al Deep Learning con TensorFlow (Taller)",
+    "title": "El Big Data hoy en día y sus aplicaciones",
+    "id": "merche",
+    "speakerId": "enriquesola",
+    "speaker": "Enrique Sola Gayoso",
+    "description": "En esta charla podrás saber en qué consiste el Big Data, comentaremos su estado a día de hoy y las cosas interesantes que se están haciendo con él.\n"
+  },
+  {
+    "date": "11:30 am",
+    "title": "Introducción al Deep Learning con TensorFlow (Taller de 2h)",
     "id": "moimartinez",
     "speakerId": "moimartinez",
     "speaker": "Moisés Martínez",
-    "description": "Alguna vez has querido descubrir como construir un modelo de predicción mediante Deep Learning utilizando TensorFlow/Keras. En este taller realizaremos una introducción a las redes de neuronas profundas y como utilizarlas para construir un sistema de predicción para ello realizaremos una preparación de datos, construiremos un modelo mediante la utilización de una red de neuronas y aprenderemos como podemos utilizar ese modelo una vez que lo hemos construido. IMPORTANTE: Lo haremos online mediante Google Colab, por lo que sólo necesitan un ordenador con chrome, a ser posible, y conexión a internet. No hay que instalar nada en sus ordenadores.\n"
+    "description": "¿Alguna vez has querido descubrir como construir un modelo de predicción mediante Deep Learning utilizando TensorFlow/Keras? En este taller realizaremos una introducción a las redes de neuronas profundas y veremos como utilizarlas para construir un sistema de predicción. Para ello realizaremos una preparación de datos, construiremos un modelo mediante la utilización de una red de neuronas y aprenderemos como podemos utilizar ese modelo una vez que lo hemos construido. IMPORTANTE: Lo haremos online mediante Google Colab, por lo que sólo necesitan un ordenador con chrome, a ser posible, y conexión a internet. No hay que instalar nada en sus ordenadores.\n"
   },
 
   {
     "date": "11:30 am",
-    "title": "Mobile testing con Flutter (Taller)",
+    "title": "Mobile testing con Flutter (Taller de 2h)",
     "id": "antoniocantero",
     "speakerId": "antoniocantero",
     "speaker": "Antonio Cantero",
@@ -132,19 +132,19 @@
   },
   {
     "date": "15:30 pm",
-    "title": "Android Open Source Project y Reverse Engineering del Kernel de MTK (Taller)",
+    "title": "Android Open Source Project y Reverse Engineering del Kernel de MTK (Taller de 2h)",
     "id": "josemariaperez",
     "speaker": "José María Perez Forte",
     "speakerId": "josemariaperez",
-    "description": "Sin más información. \n"
+    "description": "Taller de introducción para aprender a hacer sources para la compilación de Customs ROMs (Device tree y Vendor), traspasar de ARM a ARM64 (En devices con SoC ARM64 y Stock ARM) e introducción al Reverse Engineering del Kernel de MTK (ARM). Los asistentes deberán traer un portátil con Windows y Linux (Es decir Linux y VM de Windows o viceversa).\n"
   },
   {
     "date": "15:30 pm",
-    "title": "Tu primer agente conversacional con Dialogflow CX (Taller)",
+    "title": "Tu primer agente conversacional con Dialogflow CX (Taller de 2h)",
     "id": "merche",
     "speaker": "Mercedes Rodríguez García",
     "speakerId": "merche",
-    "description": "Taller de introducción para aprender a hacer un agente conversacional básico con Dialogflow CX. \n"
+    "description": "Taller introductorio para aprender a hacer un agente conversacional básico con Dialogflow CX. \n"
   },
   {
     "date": "16:30 pm",
@@ -157,7 +157,7 @@
     "id": "dcoy",
     "speakerId": "dcoy",
     "speaker": "Diego Coy",
-    "description": "Una presentación que cubre los conceptos básicos alrededor de la obtención de una coordenada GPS a través de un microcontrolador, su transmisión y procesamiento en la nube, y finalmente su presentación en Google Maps. \n"
+    "description": "Esta presentación que cubre los conceptos básicos alrededor de la obtención de una coordenada GPS a través de un microcontrolador, su transmisión y procesamiento en la nube, y finalmente su presentación en Google Maps. Para ello, se intentará proveer una idea general de la comunicación entre dispositivos IoT, servicios en la nube y aplicaciones cliente de aplicaciones basadas en ubicación, como Google Maps.\n"
   },
   {
     "date": "17:00 pm",
