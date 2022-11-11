@@ -42,6 +42,15 @@ const StyledButton = styled.a`
         background-color: ${theme.colors.lightGrey};
       }
     `}
+  ${(props) =>
+      props.color == "white/black" &&
+      css`
+        background-color: green;
+        color: black;
+        &:hover {
+          background-color: ${theme.colors.lightGreen};
+        }
+    `}
   padding: 0.5em 1em;
   text-decoration: none;
   ${(props) => {
