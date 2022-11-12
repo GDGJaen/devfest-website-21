@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import Link from "next/link";
 import theme from "./theme";
+import AnchorButton from "./elements/AnchorButton";
 
 const Article = styled.article`
   display: grid;
@@ -47,6 +48,7 @@ const Event = ({
   speakerId,
   description,
   htmlDescription,
+  formUrl,
 }) => (
   <Article>
     <Time>{date}</Time>
@@ -60,6 +62,15 @@ const Event = ({
         </Link>
       )}
       {!!description && <p>{description}</p>}
+      {!!formUrl && (
+        <AnchorButton
+            href={formUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            color="white/black"
+          >
+            Apúntate al taller
+          </AnchorButton>)}
       {!!htmlDescription && (
         <p dangerouslySetInnerHTML={{ __html: htmlDescription }}></p>
       )}

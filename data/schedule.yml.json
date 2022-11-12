@@ -69,7 +69,8 @@
     "id": "moimartinez",
     "speakerId": "moimartinez",
     "speaker": "Moisés Martínez",
-    "description": "¿Alguna vez has querido descubrir como construir un modelo de predicción mediante Deep Learning utilizando TensorFlow/Keras? En este taller realizaremos una introducción a las redes de neuronas profundas y veremos como utilizarlas para construir un sistema de predicción. Para ello realizaremos una preparación de datos, construiremos un modelo mediante la utilización de una red de neuronas y aprenderemos como podemos utilizar ese modelo una vez que lo hemos construido. IMPORTANTE: Lo haremos online mediante Google Colab, por lo que sólo necesitan un ordenador con chrome, a ser posible, y conexión a internet. No hay que instalar nada en sus ordenadores.\n"
+    "description": "¿Alguna vez has querido descubrir como construir un modelo de predicción mediante Deep Learning utilizando TensorFlow/Keras? En este taller realizaremos una introducción a las redes de neuronas profundas y veremos como utilizarlas para construir un sistema de predicción. Para ello realizaremos una preparación de datos, construiremos un modelo mediante la utilización de una red de neuronas y aprenderemos como podemos utilizar ese modelo una vez que lo hemos construido. IMPORTANTE: Lo haremos online mediante Google Colab, por lo que sólo necesitan un ordenador con chrome, a ser posible, y conexión a internet. No hay que instalar nada en sus ordenadores.\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdVMu_m1y0QdfqA32dHmVi5MT2Ml1rPcWBeZaM6mVvKvf8Wew/viewform?usp=sf_link"
   },
 
   {
@@ -78,7 +79,8 @@
     "id": "antoniocantero",
     "speakerId": "antoniocantero",
     "speaker": "Antonio Cantero",
-    "description": "En el taller haremos un recorrido por los distintos tipos de testing que se puede hacer con Flutter, así como algunas herramientas que  nos permiten agilizar el trabajo diario.\n"
+    "description": "En el taller haremos un recorrido por los distintos tipos de testing que se puede hacer con Flutter, así como algunas herramientas que  nos permiten agilizar el trabajo diario.\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSeFriZcB3tzgpnIn-eRgXwQl9wyJnSKhYE_yXGunHHaaE-sqQ/viewform?usp=sf_link"
   },
   {
     "date": "12:30 pm",
@@ -144,7 +146,8 @@
     "id": "josemariaperez",
     "speaker": "José María Perez Forte",
     "speakerId": "josemariaperez",
-    "description": "Taller de introducción para aprender a hacer sources para la compilación de Customs ROMs (Device tree y Vendor), traspasar de ARM a ARM64 (En devices con SoC ARM64 y Stock ARM) e introducción al Reverse Engineering del Kernel de MTK (ARM). Los asistentes deberán traer un portátil con Windows y Linux (Es decir Linux y VM de Windows o viceversa).\n"
+    "description": "Taller de introducción para aprender a hacer sources para la compilación de Customs ROMs (Device tree y Vendor), traspasar de ARM a ARM64 (En devices con SoC ARM64 y Stock ARM) e introducción al Reverse Engineering del Kernel de MTK (ARM). Los asistentes deberán traer un portátil con Windows y Linux (Es decir Linux y VM de Windows o viceversa).\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdVZouXTKoH3rn-exXsXuVh34YL-Wqta-cANbAkkKdweBsh-w/viewform?usp=sf_link"
   },
   {
     "date": "15:30 pm",
@@ -152,7 +155,8 @@
     "id": "merche",
     "speaker": "Mercedes Rodríguez García",
     "speakerId": "merche",
-    "description": "Taller introductorio para aprender a hacer un agente conversacional básico con Dialogflow CX. \n"
+    "description": "Taller introductorio para aprender a hacer un agente conversacional básico con Dialogflow CX. \n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSc2yeMnWDhj9MGlwlfMpP2-Gpg8w_vmO9FZeGOeh2ZK1XafUw/viewform?usp=sf_link"
   },
   {
     "date": "16:30 pm",
