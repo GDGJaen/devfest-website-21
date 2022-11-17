@@ -133,5 +133,13 @@
     "bio": "Web Developer en Brooktec",
     "company": "Brooktec",
     "linkedin": "https://www.linkedin.com/in/agl/"
+  },
+  {
+    "id": "mluque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/mluque_DWuPo3OtjN.jpeg",
+    "bio": "Analista de ciberinteligencia en Entelgy Innotec Security",
+    "company": "Entelgy Innotec Security",
+    "linkedin": "https://www.linkedin.com/in/maraluque/"
   }
 ]
