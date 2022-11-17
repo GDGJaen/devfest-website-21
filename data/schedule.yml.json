@@ -31,7 +31,7 @@
     "title": "5 Herramientas fundamentales de Google para una web",
     "id": "luisg",
     "speakerId": "luisg",
-    "speaker": "Luis Garcia Millán",
+    "speaker": "Luis García Millán",
     "description": "Trataremos tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Crece, conecta y ayuda con Women Tech Makers",
     "id": "rosemarie",
     "speakerId": "rosemarie",
-    "speaker": "Rosemarie Garcia Lopez",
+    "speaker": "Rosemarie García López",
     "description": "Conocerás la finalidad principal del programa Women Tech Makers y como impulsar tu carrera al ser embajador(a) de este.\n"
   },
   {
@@ -88,7 +88,7 @@
     "id": "break2"
   },
   {
-    "date": "12:45 am",
+    "date": "12:45 pm",
     "title": "Lo que nunca te contaron sobre la Cloud",
     "id": "jlopez",
     "speakerId": "jlopez",
@@ -96,7 +96,7 @@
     "description": "Siempre nos hablan de las bondades de la cloud: serverless, rápidos despliegues, pagas por lo que usas, escalado desde cero,...  ¿Pero es oro todo lo que reluce? En esta ponencia hablaremos de las bondades (y vergüenzas) de AWS, Azure y Google Cloud desde un punto de vista didáctico para todos los niveles.\n"
   },
   {
-    "date": "12:45 am",
+    "date": "12:45 pm",
     "title": "Screenshot testing in Jetpack Compose: Lights and Shadows",
     "id": "olmogallegos",
     "speakerId": "olmogallegos",
@@ -104,11 +104,11 @@
     "description": "En esta charla discutiremos los costes de la calidad de código: Comentaremos ventajas e inconvenientes de tener la más completa suite de Tests en una arquitectura Android. Abarcando Screenshot Tests, UI Tests y Tests unitarios. Luces y sombras de un impresionante proyecto heredado del equipo de Karumi.\n"
   },
   {
-    "date": "12:45 am",
+    "date": "12:45 pm",
     "title": "Firebase en producción: Tips & Tricks",
     "id": "ikicode",
     "speakerId": "ikicode",
-    "speaker": "Jose Manuel Márquez",
+    "speaker": "José Manuel Márquez",
     "description": "Después de desarrollar multitud de aplicaciones usando Firebase como backend me gustaría compartir las posibilidades que ofrece la plataforma, y los trucos y consejos aprendidos durante su uso en proyectos de producción.\n"
   },
   {
@@ -125,7 +125,7 @@
     "description": "En los últimos años han surgido diferentes técnicas de IA que permiten imitar la forma de pintar de algunos de los grandes pintores de la historia, es decir, eran capaces de imitar el estilo. Pero hace unos años surgieron nuevas técnicas que permiten crear imágenes artificiales a partir de una descripción textual, algo así como la idea que debería evocar una imagen al visualizarla, ¿Es esto creatividad?. En esta charla revisaremos de manera sencilla las diferentes técnicas de IA que han sido desarrolladas en los últimos años e intentaremos descubrir si los 'sistemas inteligentes son capaces de ser creativos o no'.\n"
   },
   {
-    "date": "15:30 am",
+    "date": "15:30 pm",
     "title": "La importancia del BIM en el Metaverso (BIM + VR/AR)",
     "id": "ivangomez",
     "speakerId": "ivangomez",
@@ -144,7 +144,7 @@
     "date": "15:30 pm",
     "title": "Android Open Source Project y Reverse Engineering del Kernel de MTK (Taller de 2h)",
     "id": "josemariaperez",
-    "speaker": "José María Perez Forte",
+    "speaker": "José María Pérez Forte",
     "speakerId": "josemariaperez",
     "description": "Taller de introducción para aprender a hacer sources para la compilación de Customs ROMs (Device tree y Vendor), traspasar de ARM a ARM64 (En devices con SoC ARM64 y Stock ARM) e introducción al Reverse Engineering del Kernel de MTK (ARM). Los asistentes deberán traer un portátil con Windows y Linux (Es decir Linux y VM de Windows o viceversa).\n",
     "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdVZouXTKoH3rn-exXsXuVh34YL-Wqta-cANbAkkKdweBsh-w/viewform?usp=sf_link"
@@ -178,6 +178,14 @@
     "speakerId": "mariafornieles",
     "speaker": "María Fornieles",
     "description": "En esta charla aprenderemos las claves más importantes del marketing digital, cómo aplicarlas a nuestro videojuego indie ¡y no morir en el intento! \n"
+  },
+  {
+    "date": "17:00 pm",
+    "title": "Ciberseguridad vs ciberinteligencia",
+    "id": "mariafornieles",
+    "speakerId": "mluque",
+    "speaker": "Mara Luque",
+    "description": "Seguro que sabes qué es la ciberseguridad, pero ¿sabes qué es la ciberinteligencia? En esta charla veremos diferencias entre ellas y por qué la ciberinteligencia se está volviendo cada vez más necesaria en entornos de trabajo en ciberseguridad.\n"
   },
   {
     "date": "18:00 pm",
