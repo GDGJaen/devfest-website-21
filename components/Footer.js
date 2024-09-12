@@ -6,7 +6,7 @@ import Anchor from "./elements/Anchor";
 
 export default () => (
   <Section skyline>
-    <Lead>DevFest 2021 organizado por</Lead>
+    <Lead>DevFest 2022 organizado por</Lead>
     <h1 style={{ fontSize: "2.5em" }}>
       <GDGLogo
         alt="GDG"

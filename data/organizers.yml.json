@@ -1,42 +1,44 @@
 [
   {
-    "id": "gomez",
-    "name": "Rafael Gómez",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
-    "github": "rgomez96"
-  },
-  {
-    "id": "luque",
-    "name": "Mara Luque",
-    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
-    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
-    "twitter": "m4r4__"
+    "id": "checa",
+    "name": "Alberto Checa",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
+    "bio": "Estudiante en Universidad de Jaén.",
+    "linkedin": "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160"
   },
   {
     "id": "alferez",
     "name": "Manuel Alférez",
     "image": "https://avatars.githubusercontent.com/u/38152841?v=4",
-    "bio": "I'm Manuel and I'm doing stuff with JavaScript, sharing code on GitHub and participating as a member of Google Developer Groups. Ask me about Open Source, hiking or just for a chat.",
+    "bio": "I'm a software developer and an open source enthusiast. I work as a Junior Solutions Engineer at Hubtype and participate as a member of Google Developer Groups. Ask me about Open Source, hiking, or just for a chat.",
+    "company": "Hubtype",
     "github": "manuelalferez",
     "twitter": "manuelalferez",
     "website": "https://www.manuelalferez.com/",
     "linkedin": "https://www.linkedin.com/in/manuelalferez"
   },
   {
+    "id": "german",
+    "name": "Manuel Germán",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHfqCvbM4dIaQ/profile-displayphoto-shrink_200_200/0/1659251630921?e=1669248000&v=beta&t=gRHOCWHrPJQ9OFIHTCjSqlCRanLJ-kQrDtaJTeitjrE",
+    "bio": "¡Hola! Desde siempre me ha resultado curioso el funcionamiento de estos cachivaches llamados ordenadores. Esta curiosidad me llevó a graduarme recientemente como Ingeniero Informático. También colaboro con el grupo de investigación SiMiDat.",
+    "linkedin": "https://www.linkedin.com/in/mgermanm/",
+    "github": "mgermanm0",
+    "twitter": "mgermanm0"
+  },
+  {
+    "id": "gomez",
+    "name": "Rafael Gómez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
+    "github": "rgomez96"
+  },
+  {
     "id": "honrubia",
     "name": "José Honrubia",
-    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_800_800/0/1594379775090?e=1639008000&v=beta&t=Ozb942mT8i1Au3a8ju2glxDlTkkvLdwIdR29XPX7XuM",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHmsf-8Xgq2cg/profile-displayphoto-shrink_200_200/0/1661809315192?e=1669248000&v=beta&t=1na33GFLwLSw-VHf0tyACIoVeZESInmLgHx92yPz70w",
     "bio": "Electrical Engineer and Master in Industrial Engineer with leadership, hard-worker, teamwork and curiosity. Passionate about engineering, math, new energies and solving problems.",
     "linkedin": "https://www.linkedin.com/in/jhonrubia"
   },
-  {
-    "id": "rus",
-    "name": "Jose Manuel Rus",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
-    "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
-    "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
-  },
-
   {
     "id": "jesi",
     "name": "Jesús Enrique",
@@ -47,21 +49,36 @@
     "website": "https://thinking-thoughts.vercel.app"
   },
   {
+    "id": "davidmartinez",
+    "name": "David Martinez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/david_SuMxE4JH9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658315804749",
+    "bio": "Próximamente...",
+    "twitter": "ZeroFreyzer",
+    "github": "FreyzerFault"
+  },
+  {
+    "id": "rus",
+    "name": "Jose Manuel Rus",
+    "image": "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
+    "bio": "Estudiante de Ingeniería informática en la Universidad de Jaén. Actualmente, haciendo Erasmus+ en la universidad de Umea (Suecia). He participado además en IPD, Informática para el Desarrollo, un programa de voluntariado con el apoyo de la Universidad de Jaén donde entre otras cosas hemos realizado varias charlas en institutos.",
+    "linkedin": "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b"
+  },
+  {
+    "id": "luque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
+    "bio": "Futura ingeniera informática. Try Harder🔥👩🏼‍💻",
+    "twitter": "m4r4__"
+  },
+  {
     "id": "abedraba",
     "name": "Abdallah Abedraba",
     "image": "https://avatars.githubusercontent.com/u/27779735?v=4",
-    "bio": "I'm Abdallah and I currently work as a Software Engineer at GreenMobility building cool electric cars sharing platform. Deeply passionate about innovation and communities, participating as a member of Google Developer Groups and previously working with the DevRel team at Google. Love statically typed programming languages, anything jazz, FOSS, hiking and really any movie.",
-    "company": "GreenMobility",
+    "bio": "I'm Abdallah and I work as a Product Lead @ Kubeshop. Deeply passionate about innovation and communities, participating as a member of Google Developer Groups and previously working with the DevRel team at Google. Love statically typed programming languages, anything jazz, FOSS, hiking and really any movie.",
+    "company": "Kubeshop",
     "twitter": "aabedraba",
     "github": "aabedraba",
     "website": "https://aabedraba.com",
     "linkedin": "https://www.linkedin.com/in/aabedraba"
-  },
-  {
-    "id": "checa",
-    "name": "Alberto Checa",
-    "image": "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
-    "bio": "Estudiante en Universidad de Jaén.",
-    "linkedin": "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160"
   }
 ]

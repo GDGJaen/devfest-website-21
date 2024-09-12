@@ -12,27 +12,27 @@
   },
   {
     "date": "10:00 am",
-    "title": "¿Qué está pasando en mis servicios? Introducción a distributed tracing",
-    "id": "iblancasa",
-    "speakerId": "iblancasa",
-    "speaker": "Israel Blancas Álvarez",
-    "description": "La observabilidad de servicios web es uno de los temas más candentes del sector tecnológico. El distributed tracing es parte de esa observabilidad. Durante esta charla veremos una muy breve introducción al distributed tracing, qué beneficios nos aporta y por qué deberías convertirte en una experta.\n"
+    "title": "Inteligencia artificial para el lenguaje humano en pocas líneas de código",
+    "id": "amontejo",
+    "speakerId": "amontejo",
+    "speaker": "Arturo Montejo Ráez",
+    "description": "La charla realiza una demostración de integración de tecnologías del lenguaje humano para resolver diversas tareas relacionadas con la comprensión de textos.\n"
   },
   {
     "date": "10:00 am",
-    "title": "Clean Code Applied to JavaScript",
-    "id": "Carlillo",
-    "speakerId": "Carlillo",
-    "speaker": "Carlos Caballero González",
-    "description": "En esta presentación aplicaremos los principios de código limpio sobre JavaScript. JavaScript siempre ha sido tratado como un lenguaje que por naturaleza es desordenado, sin estructuración, sin posibilidad de llegar más allá. En los últimos años, JavaScript está madurando proporcionando flexibilidad que permite construir código limpio a la vez que bello. En esta charla vamos a aplicar los clásicos principios de código limpio y la adaptación de otras recomendaciones en JavaScript, los temas que profundizaremos son: Antes de empezar a programar!, Variables, Funciones, Comentarios, Excepciones, Clases, Evita la complejidad condicional, Asincronismo (Async), Test\n"
+    "title": "Docker, sujétame el cubata",
+    "id": "marioezquerro",
+    "speakerId": "marioezquerro",
+    "speaker": "Mario Ezquerro Sáenz",
+    "description": "En esta charla hablaremos de Docker, mostrando las posibles soluciones y aplicaciones que nos ofrece además de ver cómo podemos integrarlo dentro de otros sistemas con o sin orquestación.\n"
   },
   {
     "date": "10:00 am",
-    "title": "Guía del arquitecto galáctico",
-    "id": "cesalberca",
-    "speakerId": "cesalberca",
-    "speaker": "César Alberca",
-    "description": "El front se ha vuelto complejo. Muy complejo. Hemos pasado de usar JavaScript con jQuery a usar frameworks que nos ayudan con gestión del estado, componentes, nos abstraen de lidiar con el DOM e infinidad de cosas más. Pero... ¿Y cómo organizamos el código que no es del framework? ¿Debemos hacer separación por capas? ¿Debemos aplicar conceptos de arquitectura en el front? En esta charla hablaremos sobre conceptos de arquitectura de Software y debatiremos de qué forma se puede aplicar al frontend para que nuestras aplicaciones sean robustas y sólidas a la par que flexibles.\n"
+    "title": "5 Herramientas fundamentales de Google para una web",
+    "id": "luisg",
+    "speakerId": "luisg",
+    "speaker": "Luis García Millán",
+    "description": "Trataremos tanto a nivel de marketing como técnico cinco herramientas de Google para páginas webs. Google Tag Manager, Google Search Console, Google Adwords, Google Analytics y Google Data Studio.\n"
   },
   {
     "date": "11:00 am",
@@ -41,36 +41,46 @@
   },
   {
     "date": "11:30 am",
-    "title": "Construyendo jugadores inteligentes con IA (Taller)",
-    "id": "moisipm",
-    "speakerId": "moisipm",
-    "speaker": "Moisés M. Martínez",
-    "description": "La Inteligencia Artificial está demostrando capacidades excepcionales a la hora de construir sistemas que son capaces de extraer información del entorno y tomar decisiones en base a esa información con el objetivo de comportarse de forma similar a como lo hacemos los humanos o al menos parecerlo. Pero, en muchos casos es difícil encontrar entornos controlados del mundo real de pruebas que aporten la suficiente información para construir estos sistemas. Uno de los entornos más utilizados para la construcción de sistemas basados en Inteligencia Artificial son los videojuegos, ya que nos ofrecen entornos controlados que permiten generar un gran conjunto de información de manera sencilla. En este taller aprenderemos como construir agentes inteligentes mediante la utilización de técnicas de Inteligencia Artificial que nos permitan jugar a un videojuego comercial.\n"
+    "title": "Agentes conversacionales en Automoción",
+    "id": "merche",
+    "speakerId": "merche",
+    "speaker": "Mercedes Rodríguez García",
+    "description": "Describiremos casos de uso reales de agentes conversacionales en el sector de la automoción, sus principales dificultades y soluciones.\n"
   },
   {
     "date": "11:30 am",
-    "title": "Attacking UJA",
-    "id": "kx1z0",
-    "speakerId": "kx1z0",
-    "speaker": "Samuel Cruz",
-    "description": "Enumerating, attacking and explaining real vulnerabilities of the UJA infrastructure. Using an attacker's perspective. We will see some red teaming techniques, analyze web vulnerabilities from a web pentester view, and play with them as if we were an attacker.\n"
+    "title": "Crece, conecta y ayuda con Women Tech Makers",
+    "id": "rosemarie",
+    "speakerId": "rosemarie",
+    "speaker": "Rosemarie García López",
+    "description": "Conocerás la finalidad principal del programa Women Tech Makers y como impulsar tu carrera al ser embajador(a) de este.\n"
   },
   {
     "date": "11:30 am",
-    "title": "Cómo no estamparse tras la universidad",
-    "id": "iblancasa",
-    "speakerId": "iblancasa",
-    "speaker": "Israel Blancas Álvarez & Alberto Gutiérrez Juanes",
-    "description": "Con el confinamiento y el covid nos hemos despegado del mundo más de lo que pensamos, y nos hemos perdido unos años valiosos de conocimiento. ¿Quieres saber cómo hemos llegado donde estamos? ¿Qué hemos hecho para conseguirlo? ¿El poder del networking y eventos? Ven a esta charla y empápate de esta experiencia.\n"
+    "title": "El Big Data hoy en día y sus aplicaciones",
+    "id": "merche",
+    "speakerId": "enriquesola",
+    "speaker": "Enrique Sola Gayoso",
+    "description": "En esta charla podrás saber en qué consiste el Big Data, comentaremos su estado a día de hoy y las cosas interesantes que se están haciendo con él.\n"
+  },
+  {
+    "date": "11:30 am",
+    "title": "Introducción al Deep Learning con TensorFlow (Taller de 2h)",
+    "id": "moimartinez",
+    "speakerId": "moimartinez",
+    "speaker": "Moisés Martínez",
+    "description": "¿Alguna vez has querido descubrir como construir un modelo de predicción mediante Deep Learning utilizando TensorFlow/Keras? En este taller realizaremos una introducción a las redes de neuronas profundas y veremos como utilizarlas para construir un sistema de predicción. Para ello realizaremos una preparación de datos, construiremos un modelo mediante la utilización de una red de neuronas y aprenderemos como podemos utilizar ese modelo una vez que lo hemos construido. IMPORTANTE: Lo haremos online mediante Google Colab, por lo que sólo necesitan un ordenador con chrome, a ser posible, y conexión a internet. No hay que instalar nada en sus ordenadores.\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdVMu_m1y0QdfqA32dHmVi5MT2Ml1rPcWBeZaM6mVvKvf8Wew/viewform?usp=sf_link"
   },
 
   {
     "date": "11:30 am",
-    "title": "Despega tu carrera en Big Data y Business Intelligence",
-    "id": "jesuscruz",
-    "speakerId": "jesuscruz",
-    "speaker": "Jesús Cruz Bonoso & Sebastián Moya Pareja",
-    "description": "¿Quieres conocer las tecnologías más disruptivas de Data? Ven con nosotros para conocer todos los secretos relacionados con Big Data y Business Intelligence. Se expondrá cómo estructurar y procesar el dato para posteriormente visualizarlo a través de las tecnologías más utilizadas en el sector.\n"
+    "title": "Mobile testing con Flutter (Taller de 2h)",
+    "id": "antoniocantero",
+    "speakerId": "antoniocantero",
+    "speaker": "Antonio Cantero",
+    "description": "En el taller haremos un recorrido por los distintos tipos de testing que se puede hacer con Flutter, así como algunas herramientas que  nos permiten agilizar el trabajo diario.\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSeFriZcB3tzgpnIn-eRgXwQl9wyJnSKhYE_yXGunHHaaE-sqQ/viewform?usp=sf_link"
   },
   {
     "date": "12:30 pm",
@@ -78,28 +88,28 @@
     "id": "break2"
   },
   {
-    "date": "12:45 am",
-    "title": "Hadoop on fire",
-    "id": "aljesusg",
-    "speakerId": "aljesusg",
-    "speaker": "Alberto Gutiérrez Juanes",
-    "description": "¿Sabes realmente como empezó el BigData y como funciona Hadoop? Desde los papers de Google de MapReduce hasta el ecosistema completo. Tras esta charla sabrás más sobre este mundo y ya no podrás decir que no sabes como funciona.\n"
+    "date": "12:45 pm",
+    "title": "Lo que nunca te contaron sobre la Cloud",
+    "id": "jlopez",
+    "speakerId": "jlopez",
+    "speaker": "Javier López Martínez",
+    "description": "Siempre nos hablan de las bondades de la cloud: serverless, rápidos despliegues, pagas por lo que usas, escalado desde cero,...  ¿Pero es oro todo lo que reluce? En esta ponencia hablaremos de las bondades (y vergüenzas) de AWS, Azure y Google Cloud desde un punto de vista didáctico para todos los niveles.\n"
   },
   {
-    "date": "12:45 am",
-    "title": "RxJS Powered: Building Flappy Bird in TypeScript",
-    "id": "NyaBlk",
-    "speakerId": "NyaBlk",
-    "speaker": "Estefanía García Gallardo",
-    "description": "To introduce reactive programming in with RxJS, we will be building the famous Flappy Bird minigame. We will cover everything from the basic concepts of reactive programming (observables, observers, subscriptions etc) to an advanced use of RxJS operators, as well as the latest versions of powerful web technologies like Angular and Pixi.js. La charla requiere conocimientos básicos de TypeScript/RxJS.\n"
+    "date": "12:45 pm",
+    "title": "Screenshot testing in Jetpack Compose: Lights and Shadows",
+    "id": "olmogallegos",
+    "speakerId": "olmogallegos",
+    "speaker": "Olmo Gallegos",
+    "description": "En esta charla discutiremos los costes de la calidad de código: Comentaremos ventajas e inconvenientes de tener la más completa suite de Tests en una arquitectura Android. Abarcando Screenshot Tests, UI Tests y Tests unitarios. Luces y sombras de un impresionante proyecto heredado del equipo de Karumi.\n"
   },
   {
-    "date": "12:45 am",
-    "title": "Desarrollo Web [IN]seguro",
-    "id": "eduSatoe",
-    "speakerId": "eduSatoe",
-    "speaker": "Eduardo Sánchez Toril",
-    "description": "En la charla veremos las fallos más comunes que cometen los desarrolladores Web para posteriormente explicar la forma de fortificar o reducir la superficie de exposición de una aplicación Web. Debemos proteger el entorno por capas, desde el front-end, hasta llegar al nivel más bajo, la base de datos. Durante la charla veremos algunos casos reales que han supuesto la exposición total de los datos de un sitio Web.\n"
+    "date": "12:45 pm",
+    "title": "Firebase en producción: Tips & Tricks",
+    "id": "ikicode",
+    "speakerId": "ikicode",
+    "speaker": "José Manuel Márquez",
+    "description": "Después de desarrollar multitud de aplicaciones usando Firebase como backend me gustaría compartir las posibilidades que ofrece la plataforma, y los trucos y consejos aprendidos durante su uso en proyectos de producción.\n"
   },
   {
     "date": "13:45 pm",
@@ -108,35 +118,45 @@
   },
   {
     "date": "15:30 pm",
-    "title": "Flutter Flow - Construye apps sin código (Taller)",
-    "id": "ikicode",
-    "speakerId": "ikicode",
-    "speaker": "Jose Manuel Márquez",
-    "description": "Taller de iniciación a esta herramienta no-code que permite desarrollar aplicaciones con Flutter sin tener que picar ni una sola linea de código.\n"
-  },
-  {
-    "date": "15:30 am",
-    "title": "Explicabilidad en IA: Cómo puedo explicar mis modelos tabulares",
-    "id": "moisipm",
-    "speakerId": "moisipm",
-    "speaker": "Moisés M. Martínez",
-    "description": "La Inteligencia Artificial (IA) y más precisamente el Aprendizaje Automático (AA) están comenzando a ser una técnica muy utilizada para la construcción de sistemas de toma de decisiones, de recomendación o de predicción. Pero en algún momento los usuarios reciben una explicación del porque de esa decisión, recomendación o predicción es así. En esta charla describiré como funcionan los nuevos sistemas de explicabilidad que ofrece Google Cloud Plaform y como podemos utilizarlos para entender mejor el funcionamiento de los modelos de AA y como explicar a los usuarios las respuestas que generan. \n"
+    "title": "¿Será el próximo Vincent Van Goth un robot? La creatividad en el mundo de la IA.",
+    "id": "moimartinez",
+    "speakerId": "moimartinez",
+    "speaker": "Moisés Martínez",
+    "description": "En los últimos años han surgido diferentes técnicas de IA que permiten imitar la forma de pintar de algunos de los grandes pintores de la historia, es decir, eran capaces de imitar el estilo. Pero hace unos años surgieron nuevas técnicas que permiten crear imágenes artificiales a partir de una descripción textual, algo así como la idea que debería evocar una imagen al visualizarla, ¿Es esto creatividad?. En esta charla revisaremos de manera sencilla las diferentes técnicas de IA que han sido desarrolladas en los últimos años e intentaremos descubrir si los 'sistemas inteligentes son capaces de ser creativos o no'.\n"
   },
   {
     "date": "15:30 pm",
-    "title": "El peligro de las APTs",
-    "id": "RaSr98",
-    "speaker": "Rafael Sojo Ruíz",
-    "speakerId": "RaSr98",
-    "description": "En la charla muestro que es una APT así como ejemplos reales, cómo defenderse y ejemplos de cómo podría hacer un actor malicioso para llevar a cabo un ataque.\n"
+    "title": "La importancia del BIM en el Metaverso (BIM + VR/AR)",
+    "id": "ivangomez",
+    "speakerId": "ivangomez",
+    "speaker": "Iván Gómez",
+    "description": "Asentando las bases del Metaverso del sector AEC gracias a la integración del BIM en Realidad Virtual y Aumentada en VT-Platform. Trabaja con tus modelos BIM en AR y VR con el fin de aumentar la productividad de tus procesos en cualquier fase del ciclo de vida de un activo AEC, desde cualquier dispositivo sin necesidad de tener conocimientos en BIM. Mejora la colaboración entre obra y oficina, reduce tiempo y ahorra costes. \n"
   },
   {
     "date": "15:30 pm",
-    "title": "Creación de animaciones matemáticas con Python y Manim",
-    "id": "jesi_rgb",
-    "speaker": "Jesús Enrique Cartas Rascón",
-    "speakerId": "jesi_rgb",
-    "description": "De los miles de paquetes disponibles para Python, Manim es una librería especial que nos permite crear animaciones de forma extremadamente sencilla utilizando código. Aprovechando las ventajas que nos ofrece la programación, como los bucles o condicionales, podemos crear animaciones realmente complejas, o simulaciones que de otra forma sería muy difícil conseguir. Esto se exporta finalmente en un vídeo que podemos compartir con el mundo, haciendo del proceso de creación de contenido multimedia educativo algo divertido y mucho más útil, tanto para el creador como para el consumidor.\n"
+    "title": "Clean Code. Primeros pasos",
+    "id": "anagomezlopez",
+    "speaker": "Ana Gómez López",
+    "speakerId": "anagomezlopez",
+    "description": "Durante esta charla aprenderás técnicas que te ayudarán a escribir código legible, prevenir la existencia de código duplicado, reducir errores y otras buenas prácticas a la hora de escribir código. Los puntos que trataremos te serán de utilidad en tu día a día, facilitando el trabajo en equipo y la mantenibilidad del código. Descubre sus ventajas y empieza a aplicar los principios del 'Clean Code'.\n"
+  },
+  {
+    "date": "15:30 pm",
+    "title": "Android Open Source Project y Reverse Engineering del Kernel de MTK (Taller de 2h)",
+    "id": "josemariaperez",
+    "speaker": "José María Pérez Forte",
+    "speakerId": "josemariaperez",
+    "description": "Taller de introducción para aprender a hacer sources para la compilación de Customs ROMs (Device tree y Vendor), traspasar de ARM a ARM64 (En devices con SoC ARM64 y Stock ARM) e introducción al Reverse Engineering del Kernel de MTK (ARM). Los asistentes deberán traer un portátil con Windows y Linux (Es decir Linux y VM de Windows o viceversa).\n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdVZouXTKoH3rn-exXsXuVh34YL-Wqta-cANbAkkKdweBsh-w/viewform?usp=sf_link"
+  },
+  {
+    "date": "15:30 pm",
+    "title": "Tu primer agente conversacional con Dialogflow CX (Taller de 2h)",
+    "id": "merche",
+    "speaker": "Mercedes Rodríguez García",
+    "speakerId": "merche",
+    "description": "Taller introductorio para aprender a hacer un agente conversacional básico con Dialogflow CX. \n",
+    "formUrl":"https://docs.google.com/forms/d/e/1FAIpQLSc2yeMnWDhj9MGlwlfMpP2-Gpg8w_vmO9FZeGOeh2ZK1XafUw/viewform?usp=sf_link"
   },
   {
     "date": "16:30 pm",
@@ -145,19 +165,27 @@
   },
   {
     "date": "17:00 pm",
-    "title": "TC39 - From the proposal to ECMAScript - Step by Step",
-    "id": "romulocintra",
-    "speakerId": "romulocintra",
-    "speaker": "Romulo Cintra",
-    "description": "It's a talk that goes beyond how the ECMAScript language and shares how the process of a proposal lands on the language then in the browser, goes thruwh the edge cases of certain proposals, how to get involved help and test.\n"
+    "title": "La travesía de una coordenada GPS: Desde el hardware hasta un marcador en tu pantalla",
+    "id": "dcoy",
+    "speakerId": "dcoy",
+    "speaker": "Diego Coy",
+    "description": "Esta presentación que cubre los conceptos básicos alrededor de la obtención de una coordenada GPS a través de un microcontrolador, su transmisión y procesamiento en la nube, y finalmente su presentación en Google Maps. Para ello, se intentará proveer una idea general de la comunicación entre dispositivos IoT, servicios en la nube y aplicaciones cliente de aplicaciones basadas en ubicación, como Google Maps.\n"
   },
   {
     "date": "17:00 pm",
-    "title": "Diseño web, UX y SEO los tres pilares que harán triunfar tu web",
-    "id": "juaniamaro",
-    "speakerId": "juaniamaro",
-    "speaker": "Juani Amaro Gonzalez",
-    "description": "¿Qué es necesario tener en cuenta para tener una web competente? Enseñaremos algunas de las buenas practicas en el diseño web, el User Experience y el SEO que impulsaran tu web.\n"
+    "title": "Marketing para videojuegos indies",
+    "id": "mariafornieles",
+    "speakerId": "mariafornieles",
+    "speaker": "María Fornieles",
+    "description": "En esta charla aprenderemos las claves más importantes del marketing digital, cómo aplicarlas a nuestro videojuego indie ¡y no morir en el intento! \n"
+  },
+  {
+    "date": "17:00 pm",
+    "title": "Ciberseguridad vs ciberinteligencia",
+    "id": "mariafornieles",
+    "speakerId": "mluque",
+    "speaker": "Mara Luque",
+    "description": "Seguro que sabes qué es la ciberseguridad, pero ¿sabes qué es la ciberinteligencia? En esta charla veremos diferencias entre ellas y por qué la ciberinteligencia se está volviendo cada vez más necesaria en entornos de trabajo en ciberseguridad.\n"
   },
   {
     "date": "18:00 pm",

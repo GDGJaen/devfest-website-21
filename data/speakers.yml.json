@@ -1,151 +1,145 @@
 [
   {
-    "id": "romulocintra",
-    "name": "Romulo Cintra",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/romulocintra_WWx1xtNGa.jpeg",
-    "bio": "Web enthusiast at @igalia | Google Developer Expert",
-    "company": "Igalia",
-    "twitter": "/romulocintra",
-    "github": "/romulocintra",
-    "website": "https://romulocintra.dev",
-    "linkedin": "https://www.linkedin.com/in/romulocintra"
+    "id": "luisg",
+    "name": "Luis García Millán",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/luis_A9cc6uNI_.jpg",
+    "bio": "Co-Founder & CMO",
+    "company": "Deditec",
+    "twitter": "GarciaMillanLui",
+    "linkedin": "https://www.linkedin.com/in/luisgarciamillan/"
   },
   {
-    "id": "moisipm",
-    "name": "Moisés M. Martínez",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/moisipm_xMkAXPRRx.jpeg",
-    "bio": "Always Learning. Physics, Maths & Artificial Intelligence | AI & BigData Architec | Google Developer Expert in ML 🦸‍♂️ | T3chFest & gdgcloudmadrid organizer",
+    "id": "amontejo",
+    "name": "Arturo Montejo Ráez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/amontejo_1KOtVaB52L.jpg",
+    "bio": "Profesor e Investigador",
+    "company": "Universidad de Jaén",
+    "twitter": "amontejoraez"
+  },
+  {
+    "id": "moimartinez",
+    "name": "Moisés Martínez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/moises_IDu70NoMe.jpg",
+    "bio": "Data & AI Lead - ​GDE in Machine Learning",
     "company": "Paradigma Digital",
-    "twitter": "/moisipm",
-    "github": "/momartinm",
-    "website": "https://padlet.com/momartinm/wp3g06gp6siv",
-    "linkedin": "https://www.linkedin.com/in/momartinm"
+    "twitter": "moisipm",
+    "github": "momartinm",
+    "linkedin": "https://www.linkedin.com/in/momartinm/"
   },
   {
-    "id": "NyaBlk",
-    "name": "Estefanía García Gallardo",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/nia_daAEaRkCK.jpeg",
-    "bio": "Full stack dev | Creator of npkill | Org AngularMalaga | Intl speaker | Founder punto_tech | Obsessed with clean code",
-    "company": "Vygo",
-    "twitter": "/NyaBlk",
-    "github": "/nyagarcia",
-    "website": "https://npkill.js.org/"
+    "id": "marioezquerro",
+    "name": "Mario Ezquerro Sáenz",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGjMDnRNV_-XA/profile-displayphoto-shrink_800_800/0/1639637047659?e=1673481600&v=beta&t=j6EEpiQyQbwCd-TdGTKTVdYR3zZGtE0gEd_ROYBUMyk",
+    "bio": "Administrator, Devops, GDG La Rioja & Cloud Español, Contanierd for all",
+    "company": "Bosonit",
+    "twitter": "Mario_Ezquerro",
+    "linkedin": "https://www.linkedin.com/in/mario-ezquerro-s%C3%A1enz-a239b270/"
   },
   {
-    "id": "iblancasa",
-    "name": "Israel Blancas Álvarez",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/iblancasa_oMReJz478.jpeg",
-    "bio": "Software Quality Engineer @Red Hat | Open Source enthusiast",
-    "company": "Red Hat",
-    "twitter": "/iblancasa",
-    "github": "/iblancasa",
-    "website": "http://iblancasa.com",
-    "linkedin": "https://www.linkedin.com/in/iblancasa"
+    "id": "jlopez",
+    "name": "Javier López Martínez",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/javierlopez_NuWKs0-1P.jpg",
+    "bio": "Cloud Engineering Senior Manager - GDE in Cloud",
+    "company": "Deloitte",
+    "twitter": "javioreto",
+    "linkedin": "https://www.linkedin.com/in/jlopezmartinez/"
   },
   {
-    "id": "aljesusg",
-    "name": "Alberto Gutiérrez Juanes",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/alberto_Gw_6Kb6rk6.jpeg",
-    "bio": "Senior Software Engineer at Red Hat | Google Developer Expert in Google Cloud | GDG Organizer",
-    "company": "Red Hat",
-    "twitter": "/aljesusg",
-    "github": "/aljesusg",
-    "linkedin": "https://www.linkedin.com/in/aljesusg/"
+    "id": "merche",
+    "name": "Mercedes Rodríguez García",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/mercedes_FQVRWs6e_D.jpg",
+    "bio": "AI Conversational Specialist - GDE in Assistant",
+    "company": "GFT",
+    "linkedin": "https://www.linkedin.com/in/mrodriguez-garcia/"
   },
   {
-    "id": "jesi_rgb",
-    "name": "Jesús Enrique Cartas Rascón",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/jesi_j2LHnJ--sa.jpeg",
-    "bio": "I am an Andalusian data journalist, chart lover, designer and musician | Data analyst and engineer | Created engaging animations earning 27.12M views as part of the Veritasium Creative team",
-    "company": "Freelance Mathematical Animator",
-    "twitter": "/jesi_rgb",
-    "github": "/jesi-rgb",
-    "website": "https://www.jesirgb.com",
-    "linkedin": "https://www.linkedin.com/in/jes%C3%BAs-enrique-cartas-rasc%C3%B3n-8716131a5/"
+    "id": "olmogallegos",
+    "name": "Olmo Gallegos",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/olmodev.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667997828108",
+    "bio": "Android Engineer",
+    "company": "Klisst",
+    "twitter": "olmoDev"
+  },
+  {
+    "id": "dcoy",
+    "name": "Diego Coy",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/diegocoy_A83t1sBYS.jpeg",
+    "bio": "GDE in Web & Maps",
+    "company": "GDE",
+    "twitter": "unjavascripter"
+  },
+  {
+    "id": "rosemarie",
+    "name": "Rosemarie García López",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFK1bTQLpefVQ/profile-displayphoto-shrink_800_800/0/1653292580613?e=1673481600&v=beta&t=yNrTxThniWf5bLBuhI7wwxRvb5_7OuHXXzWeybiGtJs",
+    "bio": "UX/UI Designer & Researcher based in Mataró, Spain | Google WTM Barcelona Co Organizer | FoF Avocate",
+    "company": "Women Tech Makers Barcelona",
+    "twitter": "RoseSunshineG"
+  },
+  {
+    "id": "mariafornieles",
+    "name": "María Fornieles",
+    "image": "https://pbs.twimg.com/profile_images/1369055593621766145/B2td7jRO_400x400.jpg",
+    "bio": "Artista Técnica. Autora de «Marketing para Imbéciles. Asesora de Marketing para videojuegos, autónom@s, y principiantes del mundo.",
+    "twitter": "mariavidela"
+  },
+  {
+    "id": "enriquesola",
+    "name": "Enrique Sola Gayoso",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHYVxgNXLfhCg/profile-displayphoto-shrink_400_400/0/1636649242704?e=1673481600&v=beta&t=BdhxYYpG2UFRRnyeOhofdeaCIXQ0CYbsqLZAqSsjTrI",
+    "bio": "Big Data consultant Bosonit",
+    "company": "Bosonit",
+    "linkedin": "https://www.linkedin.com/in/enrique-sola-gayoso-0b28b0159/"
+  },
+  {
+    "id": "antoniocantero",
+    "name": "Antonio Cantero",
+    "image": "https://media-exp1.licdn.com/dms/image/D4E03AQFqgyJ23LuZTA/profile-displayphoto-shrink_400_400/0/1665463799312?e=1673481600&v=beta&t=YUUkeQ8TFB730FCIP4djAtrjPXLLU5dIPHtpNbfM5vg",
+    "bio": "Software engineer",
+    "company": "Hearts Radiant ",
+    "linkedin": "https://www.linkedin.com/in/acanteror/",
+    "twitter": "lafluttertulia"
+  },
+  {
+    "id": "josemariaperez",
+    "name": "José María Pérez Forte",
+    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/josemaria_DU5PLSkIY.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667999278815",
+    "bio": "Informático // Desarrollador de Android // Computer technician // Android Dev",
+    "company": "LineageOS",
+    "linkedin": "https://www.linkedin.com/in/josé-maría-pérez-forte-84a049180/"
+  },
+  {
+    "id": "ivangomez",
+    "name": "Iván Gómez",
+    "image": "https://media.licdn.com/dms/image/C4E03AQGlSzxjmLBhhw/profile-displayphoto-shrink_200_200/0/1579817591203?e=1672876800&v=beta&t=hD4hfGqe4zIHseBceGihBF_f0fGFhON2t4BdT2I3e-s",
+    "bio": "CEO & Founder de VT-LAB - VR+AR (XR)+BIM -METAVERSE AEC-",
+    "company": "VT-Lab",
+    "linkedin": "https://www.linkedin.com/in/ivan-gomez-rodriguez-vtlab/"
   },
   {
     "id": "ikicode",
-    "name": "Jose Manuel Márquez",
+    "name": "José Manuel Márquez",
     "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/ikicode_jIVp8Ik-i.jpeg",
     "bio": "Tech Lead & Co-founder at Código Base - Product Team as a Service - Development with Flutter",
     "company": "Código Base",
-    "twitter": "/ikicode",
+    "twitter": "ikicode",
     "website": "https://codigobase.es",
     "linkedin": "https://www.linkedin.com/in/jose-manuel-marquez/"
   },
   {
-    "id": "eduSatoe",
-    "name": "Eduardo Sánchez Toril",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/eduSatoe_CEqhKd-es.jpeg",
-    "bio": "Profesor de Formación Profesional & CEO de AllPentesting | Pulmón de HackandBeers - Responsable de QurtubaCon | Vicepresidente de ANPhacket",
-    "company": "AllPentesting",
-    "twitter": "/eduSatoe",
-    "website": "https://satoe.es",
-    "linkedin": "https://www.linkedin.com/in/eduardosancheztoril"
+    "id": "anagomezlopez",
+    "name": "Ana Gómez López",
+    "image": "https://media.licdn.com/dms/image/C4D03AQGmbvtlohIn0w/profile-displayphoto-shrink_800_800/0/1540415245969?e=1672876800&v=beta&t=5X2R80FDnmu0VciFlJXFDuorU1L0N68qsRJyE7uWHJA",
+    "bio": "Web Developer en Brooktec",
+    "company": "Brooktec",
+    "linkedin": "https://www.linkedin.com/in/agl/"
   },
   {
-    "id": "RaSr98",
-    "name": "Rafael Sojo Ruíz",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/RaSr98_1VWF3a8GC.jpeg",
-    "bio": "Técnico de SMR y Técnico Superior de Desarrollo de Aplicaciones Web (DAW) | En mi tiempo libre aprendo sobre Ciberseguridad así como practicar en CTFs y plataformas como HackTheBox",
-    "company": "AllPentesting",
-    "twitter": "/RaSr98",
-    "website": "https://rafasojo.es/",
-    "linkedin": "https://www.linkedin.com/in/rafaelsojo"
-  },
-  {
-    "id": "cesalberca",
-    "name": "César Alberca",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/cesar_5tZSGyAsX.jpeg",
-    "bio": "Desarrollador Frontend en Autentia | Profesor en cicemadrid | Miembro del comité CodemoMadrid | Me encanta aprender y compartir conocimiento",
-    "company": "Autentia",
-    "twitter": "/cesalberca",
-    "website": "https://cesalberca.com",
-    "linkedin": "https://www.linkedin.com/in/c%C3%A9sar-alberca-8ba52091/"
-  },
-  {
-    "id": "kx1z0",
-    "name": "Samuel Cruz",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/kx1z0_f1t2uXSxC.png?updatedAt=1638196650754",
-    "bio": "I am a cybersecurity fanatic | Bash lover | CVE-2020-24329 | Hacking 4 fun",
-    "company": "Wise Security Global",
-    "twitter": "/kx1z0",
-    "github": "/Kx1z0",
-    "website": "https://backdot.tk/"
-  },
-  {
-    "id": "Carlillo",
-    "name": "Carlos Caballero González",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/Carlillo_XnlO45Th_.jpeg",
-    "bio": "PhD in Computer Science | Angular GoogleDevExpert | Intl.Speaker | Vocational Teacher & Professor UOCeimt | Founder: punto_tech | Org: AngularMalaga ngSpain",
-    "company": "GDE en Angular",
-    "twitter": "/Carlillo",
-    "github": "/caballerog",
-    "website": "https://carloscaballero.io/",
-    "linkedin": "https://www.linkedin.com/in/carloscaballerogonzalez/"
-  },
-  {
-    "id": "juaniamaro",
-    "name": "Juani Amaro Gonzalez",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/juani_rjIPPn09Dux.jpeg",
-    "bio": "Técnico superior en desarrollo de aplicaciones multiplataforma",
-    "company": "Dapda",
-    "linkedin": "https://www.linkedin.com/in/juani-amaro-gonz%C3%A1lez-aa7005162"
-  },
-  {
-    "id": "jesuscruz",
-    "name": "Jesús Cruz Bonoso",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/jesuscruz_1twSEUG4P.jpeg",
-    "bio": "Business Intelligence Consultant",
-    "company": "Bosonit",
-    "linkedin": "https://www.linkedin.com/in/jesuscruzbonoso/"
-  },
-  {
-    "id": "sebastianmoya",
-    "name": "Sebastián Moya Pareja",
-    "image": "https://ik.imagekit.io/gdgjaen/devfest-2021/ponentes/sebastianmoya_9q8iczL-0.jpeg",
-    "bio": "Big Data Consultant",
-    "company": "Bosonit",
-    "linkedin": "https://www.linkedin.com/in/sebastianmoyapareja/"
+    "id": "mluque",
+    "name": "Mara Luque",
+    "image": "https://ik.imagekit.io/gdgjaen/website/lecturer/mluque_DWuPo3OtjN.jpeg",
+    "bio": "Analista de ciberinteligencia en Entelgy Innotec Security",
+    "company": "Entelgy Innotec Security",
+    "linkedin": "https://www.linkedin.com/in/maraluque/"
   }
 ]

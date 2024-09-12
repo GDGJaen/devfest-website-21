@@ -7,6 +7,14 @@
       "logo": "/static/googlelogo.png",
       "tier": "platinum",
       "width": "370px"
+    },
+    {
+      "id": "diputacionjaen",
+      "name": "Diputación de Jaén",
+      "link": "https://www.dipujaen.es/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/diputacionJaen_Ah44ySYXP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667998469711",
+      "tier": "platinum",
+      "width": "330px"
     }
   ],
   "gold": [
@@ -15,14 +23,6 @@
       "name": "Vicerrectorado de Estudiantes",
       "link": "https://www.ujaen.es",
       "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/uja_BWq4lNcsAA.png",
-      "tier": "gold",
-      "width": "290px"
-    },
-    {
-      "id": "software-DELSOL",
-      "name": "Software DELSOL",
-      "link": "https://www.sdelsol.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/software-delsol_Clr7qoM3E.png",
       "tier": "gold",
       "width": "290px"
     },
@@ -45,31 +45,15 @@
       "width": "120px"
     },
     {
-      "id": "dapda",
-      "name": "Dapda",
-      "link": "https://dapda.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/dapda_W2A0GP0Z5g9.png",
+      "id": "brooktec",
+      "name": "Brooktec",
+      "link": "https://brooktec.com/",
+      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/brooktec.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667998667508",
       "tier": "silver",
-      "width": "140px"
+      "width": "160px"
     },
     {
-      "id": "autentia",
-      "name": "Autentia",
-      "link": "https://www.autentia.com/",
-      "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/autentia_gEEcMb_mL.png",
-      "tier": "silver",
-      "width": "200px"
-    },
-    {
-      "id": "nxtgen",
-      "name": "NXTGEN",
-      "link": "https://nxtgen.com/",
-      "logo": " https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/nxtgen_ty6qi-01w.png",
-      "tier": "silver",
-      "width": "150px"
-    },
-    {
-      "id": "nxtgen",
+      "id": "santoreino",
       "name": "Santo Reino",
       "link": "https://www.santoreino.es/",
       "logo": "https://ik.imagekit.io/gdgjaen/devfest-2021/sponsors/santo_reino_MbZ8IjPSBg6.png",
